@@ -13,3 +13,8 @@ mylearn21.03
 words: before, during, after, day, today, yesterday, tomorrow, 
 expressions: before that year, five days ago, before noon, since morning, during the year, during the month, during the day, during the week, during these three years, since last year, during the night, during this evening, during the dinner, before you, only after you, this day, that day, during the day, the day after tomorrow, 
 sentence: Sunday is before Monday. I go to work before noon. I feel happy during the day. This day is special for me. This is a usual day. That day was great. Meet me after work today, please. I have English tomorrow. Come tomorrow. See you tomorrow. 
+
+mylearn22.03
+words: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, on, 
+expressions: on Sunday, on Monday, next Monday, on Wednesday, 
+sentence: This Sunday is special. He works every Monday. Every Tuesday he is late. Every day is different. Tomorrow is Tuesday. Let's meet on Sunday. No, It's not Sunday today. Let's meet on Wednesday. We meet every Thursday. Every Friday is specil. I learn English this Friday. 
