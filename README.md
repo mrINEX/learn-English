@@ -23,3 +23,8 @@ mylearn24.03
 words: to do, to make, an exercise, homework, cake, do, 
 expressions: to do homework, to make a cake, make a mistake, make noise, do it, just do it, 
 sentence: Do whatever you like! I do my homework every day. Let's do these exercises. You should do these exercises every morning. Her grandfather does exercises every evening. You always make this mistake. I do all that I want. Let's make a cake. You should do them every morning. We always do whatever we like. I do not speak English. I work here. Do I speak English? Do you understand me? Do you like this music? Do you need help? Do you want tea or coffee. Where do you work? What do you feel? Sorry, I don't remember your name. Do you mean it? He doesn't feel happy. He doesn't earn anything. Does he read English books? Does she live here? Does he hear me? Does he do morning exercises? Does he have a friend? 
+
+mylearn25.03
+words: do, does, don't, doesn't, exhausted, sad, angry, hungry, tired, 
+expressions: very well, a little bit, isn't it wonderful?
+sentence: Does she know English? No, She does not know English. No, She does not live here. She does not live here. Does your father understand you? She never forgets her phone. He never listens to me. Does your cat eat well? Does he live in Moscow? That man looks tired. He looks hungry. He doesn't look hungry. He is not hungry. What's up with you? You look so sad! Isn't it wonderful?
