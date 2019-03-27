@@ -28,3 +28,8 @@ mylearn25.03
 words: do, does, don't, doesn't, exhausted, sad, angry, hungry, tired, 
 expressions: very well, a little bit, isn't it wonderful?
 sentence: Does she know English? No, She does not know English. No, She does not live here. She does not live here. Does your father understand you? She never forgets her phone. He never listens to me. Does your cat eat well? Does he live in Moscow? That man looks tired. He looks hungry. He doesn't look hungry. He is not hungry. What's up with you? You look so sad! Isn't it wonderful?
+
+mylearn27.03
+words: use, user, chair, used to, to use, always, of course, 
+expressions: used to, I am used to, It is used to, be used to, of course
+sentence: I use this pen. Use this paper, please. Do you use Skype? Do you use Viber? Do you use Facebook? I am used to it. You are used to. He is used to. They are used to. I am used to this house. He is used to his new flat. I use this table. I am used to this table. They always answer questions. I always write with this pencil. They always make mistakes. Do you always sleep here? 
