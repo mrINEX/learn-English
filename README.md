@@ -33,3 +33,8 @@ mylearn27.03
 words: use, user, chair, used to, to use, always, of course, 
 expressions: used to, I am used to, It is used to, be used to, of course
 sentence: I use this pen. Use this paper, please. Do you use Skype? Do you use Viber? Do you use Facebook? I am used to it. You are used to. He is used to. They are used to. I am used to this house. He is used to his new flat. I use this table. I am used to this table. They always answer questions. I always write with this pencil. They always make mistakes. Do you always sleep here? 
+
+mylearn28.03
+words: usually, there, often, possible 50%, perhaps 50%, probably 60%, 
+expressions: 
+sentence: I usually read books. I usually watch TV. He usually works late at night. Young people usually make mistakes. Taxi drivers usually work at night. Usually there is a cheir. Usually we do not speak English here. Usually he is calm. I often use that pencil. She often makes cakes. He often asks stupid questions. The impossible is possible. Perhaps he knows my father. Perhaps he knows your surname. Perhaps he is a student. Probably she is married. Probably you are right. 
