@@ -38,3 +38,8 @@ mylearn28.03
 words: usually, there, often, possible 50%, perhaps 50%, probably 60%, 
 expressions: 
 sentence: I usually read books. I usually watch TV. He usually works late at night. Young people usually make mistakes. Taxi drivers usually work at night. Usually there is a cheir. Usually we do not speak English here. Usually he is calm. I often use that pencil. She often makes cakes. He often asks stupid questions. The impossible is possible. Perhaps he knows my father. Perhaps he knows your surname. Perhaps he is a student. Probably she is married. Probably you are right. 
+
+mylearn29.03
+words: sometimes, once, never, impossible, already, yet, ready, still, 
+expressions: more than once, once in my life, once this year, once a year, once a month, impossible to read, 
+sentence: Sometimes I read books in English. Sometimes I work late. Sometimes He asks a lot of questions. Does he smoke sometimes. Sometimes I read a book. I sometimes read a book. I read a book sometimes. I never read books. It is never too late to learn. I never get tired of children. She never feels at home here. Better late than never. To understand this woman is impossible. It is impossible. This answer is impossible. It is impossible to read this book. It is impossible to live in this city. It is impossible to learn it. It is impossible to forget her. It is impossible to live here. I already know him. I am already eighteen. My translation is not ready yet. He is not a student yet. I don't know him yet. I am not ready yet. 
