@@ -50,3 +50,10 @@ words: almost, ready, to complete, completely, finish, there, bare, careful, ear
        spring, March, April, May, 
 expressions: almost ready, almost impossible, still young, almost certain, almost never, in winter, next winter, since May, in spring, 
 sentence: We are almost ready. We are all ready. I am almost certain. It is almost impossible. You are still very young. He is almost redy to do it. Complete this exercise today. Complete your work tomorrow. I am completely free today. Are you ready? I am almost ready to do it. She is almost certain. To learn Chinese is almost impossible. It is never late to learn. Probably, he doesn't want to speak. See you in March. It is still March. I am always happy in spring. 
+
+mylearn01.04
+words: summer, June, July, August,
+       autumn, September, October, November,
+       last, late, now, sky, clear, the sky, cold, warm, war, hot, dry, 
+expressions: in June, in July, in August, since July, since last July, on Sunday, on Wednesday, until now, in the blue sky, cold water, cold weather, warm here, 
+sentence: Today is the first of June. I like my city in July. The weather is wonderful in July. Now or never. Do it now. It is winter now. Is it still summer now? It is now or never. Just do it now. It is late now. The sky is clear. It is clear. Is it clear? Are my words clear? The water is cold. The weather is cold today. I am cold now. Are you warm? The river is dry. My mouth is dry. The air is very dry here. Is it warm there? It is very cold here. 
