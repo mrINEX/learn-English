@@ -56,4 +56,9 @@ words: summer, June, July, August,
        autumn, September, October, November,
        last, late, now, sky, clear, the sky, cold, warm, war, hot, dry, 
 expressions: in June, in July, in August, since July, since last July, on Sunday, on Wednesday, until now, in the blue sky, cold water, cold weather, warm here, 
-sentence: Today is the first of June. I like my city in July. The weather is wonderful in July. Now or never. Do it now. It is winter now. Is it still summer now? It is now or never. Just do it now. It is late now. The sky is clear. It is clear. Is it clear? Are my words clear? The water is cold. The weather is cold today. I am cold now. Are you warm? The river is dry. My mouth is dry. The air is very dry here. Is it warm there? It is very cold here. 
+sentence: Today is the first of June. I like my city in July. The weather is wonderful in July. Now or never. Do it now. It is winter now. Is it still summer now? It is now or never. Just do it now. It is late now. The sky is clear. It is clear. Is it clear? Are my words clear? The water is cold. The weather is cold today. I am cold now. Are you warm? The river is dry. My mouth is dry. The air is very dry here. Is it warm there? It is very cold here.
+
+mylearn02.04
+words: enough, sunny, rain, rainy, 
+expressions: not enough, cold enough, beautiful enough, near enough, enough books, enough time, 
+sentence: It is not enough for me. Enough is enough. She is kind enough. He is rich enough. It is cold enough here. It is late enough. He has got enough books. She has enough friends. Is the water warm enough? Is it late enough? His car is fast enough. It is warm enough today. It often rains in autumn. It rains. It is rainy. 
