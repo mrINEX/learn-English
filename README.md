@@ -62,3 +62,8 @@ mylearn02.04
 words: enough, sunny, rain, rainy, 
 expressions: not enough, cold enough, beautiful enough, near enough, enough books, enough time, 
 sentence: It is not enough for me. Enough is enough. She is kind enough. He is rich enough. It is cold enough here. It is late enough. He has got enough books. She has enough friends. Is the water warm enough? Is it late enough? His car is fast enough. It is warm enough today. It often rains in autumn. It rains. It is rainy. 
+
+mylearn03.04
+words: such, what, 
+expressions:
+sentence: Such lovely weather! What lovely weather! Such long hair! Such cold water! Such a strange girl! What nice words. What a strange question! Such a lovely day! Such a wonderful  life! Such an old car! This is such a good book! He asks me such stupid questions! This is such a boring book. What beautiful brown eyes! Such old men. 
