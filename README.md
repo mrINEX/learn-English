@@ -64,6 +64,11 @@ expressions: not enough, cold enough, beautiful enough, near enough, enough book
 sentence: It is not enough for me. Enough is enough. She is kind enough. He is rich enough. It is cold enough here. It is late enough. He has got enough books. She has enough friends. Is the water warm enough? Is it late enough? His car is fast enough. It is warm enough today. It often rains in autumn. It rains. It is rainy. 
 
 mylearn03.04
-words: such, what, 
-expressions:
+words: such, what,
 sentence: Such lovely weather! What lovely weather! Such long hair! Such cold water! Such a strange girl! What nice words. What a strange question! Such a lovely day! Such a wonderful  life! Such an old car! This is such a good book! He asks me such stupid questions! This is such a boring book. What beautiful brown eyes! Such old men. 
+
+mylearn04.04
+words: small, short, smaller, shorter, the smallest, the shortest, than,
+       high, higher, the highest, tall, taller, the tallest, long, longer, the longest, big, bigger, the biggest, hot, hotter, the hottest, 
+       that one, than that man, the smallest, the oldest, than my phone, short shorts, short days, than the right one, than the red one, a high quality, a tall woman, a tall model, big hopes, 
+sentence: You should not go for a walk. My bag is smaller than your bag. Minsk is smaller than Moscow. I am srtonger than you. Who is stronger? What is smaller. Days are shorter in winter. This film is shorter. This story is shorter. This is a high level! The anaconda is longer. The python is the longest. What is smaller? What is higher? Who is kinder? Your notebook is bigger. I have got hot news. It is hotter today than yesterday. July is hotter than June. 
