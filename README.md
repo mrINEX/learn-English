@@ -72,3 +72,9 @@ words: small, short, smaller, shorter, the smallest, the shortest, than,
        high, higher, the highest, tall, taller, the tallest, long, longer, the longest, big, bigger, the biggest, hot, hotter, the hottest, 
        that one, than that man, the smallest, the oldest, than my phone, short shorts, short days, than the right one, than the red one, a high quality, a tall woman, a tall model, big hopes, 
 sentence: You should not go for a walk. My bag is smaller than your bag. Minsk is smaller than Moscow. I am srtonger than you. Who is stronger? What is smaller. Days are shorter in winter. This film is shorter. This story is shorter. This is a high level! The anaconda is longer. The python is the longest. What is smaller? What is higher? Who is kinder? Your notebook is bigger. I have got hot news. It is hotter today than yesterday. July is hotter than June. 
+
+mylearn08.04
+words: not as ... as, as ... as, not as many/much ... as, as many/much ... as, the same as, worse, old, older-elder, the oldest-the eldest, little, much/many, 
+       good - better - the best, bad - worse - the worst, little - less - the least, 
+sentence: not as big as, not as calm as, as you, the same, an elder son, the elder of two sons, my best friend, the best day, bad news, a bad joke, terrible weather, 
+          A lion is bigger than a tiger. I have not got as much money as you. I don't have as much energy as you. The weather today is the same as yesterday. We have the same interests as you. She likes the same colours as you. Today it is not as hot as yesterday. Is this your elder sister? Who is older? This town is older than you think. I am older than you think. Such good weather. No news is good news. This is the best answer. The sooner the better. Better late than never. This is the worst trip ever. We have got little time. He walks less than he should. She has got little money. 
