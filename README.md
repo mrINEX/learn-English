@@ -86,3 +86,8 @@ mylearn09.04
 words: what, why, where, how, mean, 
 sentence: 1.
           2.Why are you angry with me. Why is he sad? Why are they always late? What do you mean? Why is your child always late? Why are you still here? What is the time? What do you do? What does Kate look like? Does she look like her mother? How is he? Why do you like Canada? Why do you watch this film? Why do you look tired? Why are you sad? 
+
+mylearn11.04
+words: where, when, about, 
+sentence: 1. in French, in English, 
+          2. Where do you live? Where are you from? Where is Olga? Where are you? Where are my keys? Where does your grandfather live? Where are you? Where is my phone? What is your address? Where does she go? What do you like? Does your elder son like English? When do you get up? When do you usually get up? What time do you come home? 
