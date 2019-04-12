@@ -88,6 +88,19 @@ sentence: 1.
           2.Why are you angry with me. Why is he sad? Why are they always late? What do you mean? Why is your child always late? Why are you still here? What is the time? What do you do? What does Kate look like? Does she look like her mother? How is he? Why do you like Canada? Why do you watch this film? Why do you look tired? Why are you sad? 
 
 mylearn11.04
-words: where, when, about, 
+words: where, there, when, about, 
 sentence: 1. in French, in English, 
           2. Where do you live? Where are you from? Where is Olga? Where are you? Where are my keys? Where does your grandfather live? Where are you? Where is my phone? What is your address? Where does she go? What do you like? Does your elder son like English? When do you get up? When do you usually get up? What time do you come home? 
+
+mylearn12.04
+words: how, who, why, spell, want, roof, there, far, near, 
+sentence:
+       1. How many, how much, how old, wants to become, who can, who gets up, wake up, want some coffee, how many, how much, how old, how far, 
+       where ... from,
+       who ... with,
+       with whom ... ,
+       who ... about,
+       what ... about,
+       2. How do you spell this word? How old are you? How are they? How are your children? How old is Olga? How often do you go for a walk? Where is Olga? How often do they play tennis? Why don't you want to watch this film? Why do you want to watch this film? How do you spell this word? When do you usually get up? How is your mother? How are their children? How often do you play basketball? How old is your daughter? How do you spell it? How many sisters do you have? How much coffee do you want? How much time do we have? How much water do you drink? Spell this word, please. 
+       Who lives on the roof? Who wants to sleep? Who wants to become a policeman? Who is always late? Who speaks English? Who knows German? Who knows your sister? Who can swim? Who should see a doctor? Who wants some coffee? Who watches TV every day? Why does he work till late at night? Who is the most beautiful? Who is the smallest? Who is the tallest? Who is the strongest? Who wants some coffee? Where does he live? How many pens does he have? Who gets up at ten a.m.? How much water does she drink? Where does your father work? How is your son? Why are you sad? Why are you always late? How much coffee do you want? Who is always cheerful? Where are their children? Where is her bag? Where are you from? Where is your husband from? Where is this boy from? Where is my money? Where do you go? Who likes green apples? Who drinks much coffee? Why is she sad? Where is this lady from? Who do you speak with? Who does she play with? Who do you work with? Who does he speak with? With whom do you speak? Where are these girls from? With whom do you speak? Who is always late?
+       Who do you think about? Who do you speak with? What does he think about? Who does he think about? What do you think about it? Who do you speak with? Do you know this pencil? What does he think about her? With whom do they work? Who is that man? Who is there? Who is hungry? Who is tired? What is your name? What is it? Who are they? What a beautiful sunny day! Why don't you want to dance? Why do you want to dance? What a sunny day! When do we meet? Where do you go? How many apples? How much coffee? How much time? You are very far from me. Is it far? How far is it? Near, far, wherever you are. Why are you angry with her? Who wants to be a superman? Who is that girl? What does she look like? What is your book about? 
