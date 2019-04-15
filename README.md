@@ -116,3 +116,12 @@ sentence: 1. how many, how much, how far,
           2. How much coffee do you need? How far is it? How many friends do you have? How many apples can you eat? Who wants somу coffee? How writes with this pencil?
        Please, stop. Don't stop me now! <What stops you?> Does that man stop her? Is it a bus stop? <Who stops her?> <There is no one to stop him.> <Never stop.> <Stop talking.> I want to stop. Were is the nearest bus stop?
        Stand up! Stop the car! Stay calm. 
+
+mylearn15.04
+words: stop, stand, stay
+       fall, tall, drop,
+       come, become,
+       begin, continue, finish,  <then than>
+       keep, hold, 
+sentence: to fall in love, to fall ill, a drop of rain, a drop of water, to drop a book, to drop a tear, the snow falls, a fall from a horse, to drop a bag, to fall from a tree, free fall, to come late, to come home, come here, to become, to become old, to become red, to become angry, to keep a secret, to keep money, to keep quiet, 
+          This girl falls in love with you. I don't want to fall ill. The snow falls in winter. The snow never falls in summer. Come to me. The winter comes. He usually comes home at 8. Come here. Come with me. She wants to become a teacher. Olga wants to come. I begin to speak English. I begin to translate the text. How do you usually begin your day? I usually begin my day with a walk. Then I do my morning exercises. They finish school this year. When do we begin? He continues to speak. We finish the lesson. Do you like Finnish? She keeps many secrets. I never keep keys in that room. We can keep secrets. Where do you keep your keys? Can you keep a secret? 
