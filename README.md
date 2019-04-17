@@ -130,3 +130,10 @@ mylearn16.04
 words: keep, hold, last, ... during, into, writing, 
 sentence: to keep money, to keep calm, to keep quiet, never keeps money, till I come back, into English, 
           She keeps many secrets. We can keep secrets. She keeps many secrets. Where do you keep your keys? Can you keep a secret? Yes, I can. Please, hold my book. Please, keep my book during my trip. Hold my hand. How long does it last? Keep this paper till I come back. How long do your winter holidays last? Keep your word. Can you keep my phone please. You should learn to keep secrets. I am making a cake. She is watching a film. Olga never dances. What are you doing? You are doing. You are writing. What are your friends doing? Who are you thinking about? What are you talking about? Who is she talking about? Where are they going? They are holding hands. I am always late. What is your mother doing? How much money? Spell this word please. It is not working! He is not trying to understand me. Why are you smiling? Where are you staying? Hold my hand I am falling down. They are not trying to help. 
+
+mylearn17.04
+words: honest, honour, ghost, plane, train, <when then than> quarter, exhale, exhausted, cheetah, 
+       Present Simple or Present Continuous.
+       H, h,
+sentence: thinking about, to run fast, to get home, to go for a walk, a lot, at quarter to five 4:45, job done, 
+          What do you do? What are you doing?... Why are you smiling? Where are you going? What are you drawing? Where are they going? What is your wife cooking? Is she cooking pizza? What is he thinking about? What are you thinking about? I am thinking about my future holidays. A plane is faster than a train. They use Skype every day. We already know him. They often play the piano. Sometames Olga goes shopping with her mother. He never plays tennis. He works a lot. What do you think about it? I am driving a car. He is working now. She always drives to work. Do you know that man? It takes him an hour to get home. 
