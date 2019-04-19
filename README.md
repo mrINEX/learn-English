@@ -137,3 +137,10 @@ words: honest, honour, ghost, plane, train, <when then than> quarter, exhale, ex
        H, h,
 sentence: thinking about, to run fast, to get home, to go for a walk, a lot, at quarter to five 4:45, job done, 
           What do you do? What are you doing?... Why are you smiling? Where are you going? What are you drawing? Where are they going? What is your wife cooking? Is she cooking pizza? What is he thinking about? What are you thinking about? I am thinking about my future holidays. A plane is faster than a train. They use Skype every day. We already know him. They often play the piano. Sometames Olga goes shopping with her mother. He never plays tennis. He works a lot. What do you think about it? I am driving a car. He is working now. She always drives to work. Do you know that man? It takes him an hour to get home. 
+
+mylearn19.04
+words: knight, knife, know, knee, autumn, hymn, column, psychology, receipt, continues,
+       can, cannot, swim, draw, <hear ear>
+sentence: to drop a tear, to fall ill, to fall in love, <last year, to last>, 
+       I want to stay at home today. Where is the nearest bus stop? This actress want to become famous. He wants to become a sportsman. We begin to learn English. Can you keep a secret? Hold the door, please. What do you do? What does your brother do? A plane is faster than a train.
+       I can swim. He can run fast. I cannot sing professionally. The man cannot fly. I cannot play the guitar. You cannot drive a car. It cannot run. It can run. It can swim. It cannot swim. I am trying to help you but I cannot. She can fly. Can she fly? Can she drive a car? Can he play tennis? Can you dance? We can draw. We like to play football. She can cook. We cannot fly. Can you hear me. 
