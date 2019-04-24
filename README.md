@@ -157,6 +157,15 @@ sentence: have got, has got, have to go, has to go, have to work, has to work, c
        I can help you. Help her. We need your help. You must help her.[ We want to help you.] You must help that man. We can help you. You can come with me. He is tired and he can not drive a car. Can I help you? Can you answer my question? I can't help you. She can't hear you.[ How can I help you? Our mother can make delicious cakes.] I can't hear you. 
 
 mylearn23.04
-words: below,[ shall ], should, away, way, 
+words: below,[ shall , should], away, way, 
        below zero, you shall, 
 sentence: I shall call my friend. Shall I open the window? Shall I take an umbrella? Shall I come here tomorrow? Shall I come here on Tuesday? I shell speak to her. I shall go to the doctor. Shall I take my passport? Shall we go to the cinema?[ We have nothing to do.] I have to go. Shall I shut the door? You must learn this rule. Shell we go for a walk? 
+
+mylearn24.04
+words: need, necessary,
+       may, May, <shut, during, quiet, find, wait> 
+       should, shall,
+       can could, will would
+       go there, may cause, may be, may like, may not know, may become, may ask, warm enough, if you need, for a walk, each other, could be better, could be worse,
+sentence: I need a new car. I have everything that I need. He has everything that he needs. I need you. You need me. You tell me that you are sorry. It is not necessary for you to come. I need some time. We need to go for a walk. We need to see her. She needn't worry. Need we leave so soon? Need I write it? Need he come here? You need not learn this rule. He needs to work a lot. Need we leave so soon? Do we need to leave so soon? She may be hungry.[ Shall I shut the door? May I shut the door?] You may be right. I may become a famous actor one day. May I come in? They may be away next week. May I help you? You may go if you need. We may be late. I can't help you now. You needn't stand up. He shouldn't drink beer and drive. He should drink more tea. I should be free by 7 p.m. He should not worry about it. Should we tell her? 
+       He will play football. You could play the piano. I could swim befor I could walk. The doctor could come yesterday. Could you give me your passport? 
