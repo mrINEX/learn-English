@@ -190,3 +190,8 @@ mylearn29.04
 words: language, foreign, <refund, country, useful, also, smoke, drink, Thursday, shopping, tonight, solves, when, [sell], find, around, buy, >
        the English language, a foreign language, foreign languages, a foreign country, has to, have to, we get to Boston, 
 sentence: It is always interesting to learn a foreign language. If you want to learn a foreign laguage, you should be a very patient. You should read and watch films in the original. [Do you speak any foreign language?] He often smokes. We never watch TV. [I am going to the theatre tomorrow.] Olga is shopping tonight. What are you doing tonight? [I am going to sell my car. What are you going to do?] It is going to rain. I will always love you. What is he going to do? 
+
+mylearn30.04
+words: think, promise, forever, <forever, hope, anyone, [wear], there, >
+       I think I will, I promise I will, too much noise, 
+sentence: He will call you. We will be at home at nine. This boy is always late. [I will never forget her.] I will call you later. We have no apples. I will go and buy them. I promise I will love you forever. I promise I will not make too much noise. I hope you will like this city. 
