@@ -195,3 +195,8 @@ mylearn30.04
 words: think, promise, forever, <forever, hope, anyone, [wear], there, >
        I think I will, I promise I will, too much noise, 
 sentence: He will call you. We will be at home at nine. This boy is always late. [I will never forget her.] I will call you later. We have no apples. I will go and buy them. I promise I will love you forever. I promise I will not make too much noise. I hope you will like this city. 
+
+mylearn01.05
+words: suitcase, take, [whose], pack, [clothes, wear], shorts, a T-shirt, a skirt, sunglasses, a hat, a sweater, a scarf, a coat, <find, warm, cold, [dry], rainy, autumn, >
+       to pack a suitcase, [warm clothes, summer clothes,] 
+sentence: Whose suitcase is it? Is it your suitcase? How many siutcases does she have? I need to pack my suitcase. Where is my suitcase? I can't find my suitcase. What colour is your suitcase? [You should wear warm clothes in winter.] Do you have summer clothes with you? [These shorts would suit you. You should try them on.] 
