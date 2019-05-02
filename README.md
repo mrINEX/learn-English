@@ -197,6 +197,11 @@ words: think, promise, forever, <forever, hope, anyone, [wear], there, >
 sentence: He will call you. We will be at home at nine. This boy is always late. [I will never forget her.] I will call you later. We have no apples. I will go and buy them. I promise I will love you forever. I promise I will not make too much noise. I hope you will like this city. 
 
 mylearn01.05
-words: suitcase, take, [whose], pack, [clothes, wear], shorts, a T-shirt, a skirt, sunglasses, a hat, a sweater, a scarf, a coat, <find, warm, cold, [dry], rainy, autumn, >
-       to pack a suitcase, [warm clothes, summer clothes,] 
-sentence: Whose suitcase is it? Is it your suitcase? How many siutcases does she have? I need to pack my suitcase. Where is my suitcase? I can't find my suitcase. What colour is your suitcase? [You should wear warm clothes in winter.] Do you have summer clothes with you? [These shorts would suit you. You should try them on.] 
+words: suitcase, take, [whose], pack, [clothes, wear], shorts, a T-shirt, a skirt, sunglasses, a hat, a sweater, a scarf, a coat, the jeans, the shoes, the boots, a passport, a notebook\laptop, <find, warm, cold, [dry], rainy, autumn, enough, >
+       to pack a suitcase, [warm clothes, summer clothes,] to unpack a suitcase, 
+sentence: Whose suitcase is it? Is it your suitcase? How many siutcases does she have? I need to pack my suitcase. Where is my suitcase? I can't find my suitcase. What colour is your suitcase? [You should wear warm clothes in winter.] Do you have summer clothes with you? [These shorts would suit you. You should try them on.] I would like to buy it. [What is that man wearing.] 
+
+02.05
+words: enjoy, sightseeing tours, tour, hop-on, hop-off, museum, gallery, everything, works of art, art, painting, poet, [unforgettable views], [known], cuisine, letter, e-mail, mail, [to send, to receive], friendly letters, friendly, dear, penfriend, [spend], [yours]<take, promise, >
+       one of the greatest, [going to], thanks for your letter, [best wishes, take care], 
+sentence: I would like to visit this museum. [What is this person famous for?] This view is unforgettable. Have a good time. How often does she write letter? E-mails are easy to use. Dear friends thanks for comeing. How are you enjoying your summer? How are you enjoying your holidays? I hope you are fine. [It would be great, if you could visit us in Moscow.] [Hope to hear from you soon.] Do you have any news from Olga? I can't wait. How are you enjoying your holidays? Are you going to visit us? 
