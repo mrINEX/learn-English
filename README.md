@@ -202,6 +202,11 @@ words: suitcase, take, [whose], pack, [clothes, wear], shorts, a T-shirt, a skir
 sentence: Whose suitcase is it? Is it your suitcase? How many siutcases does she have? I need to pack my suitcase. Where is my suitcase? I can't find my suitcase. What colour is your suitcase? [You should wear warm clothes in winter.] Do you have summer clothes with you? [These shorts would suit you. You should try them on.] I would like to buy it. [What is that man wearing.] 
 
 02.05
-words: enjoy, sightseeing tours, tour, hop-on, hop-off, museum, gallery, everything, works of art, art, painting, poet, [unforgettable views], [known], cuisine, letter, e-mail, mail, [to send, to receive], friendly letters, friendly, dear, penfriend, [spend], [yours]<take, promise, >
+words: enjoy, sightseeing tours, tour, hop-on, hop-off, museum, gallery, everything, works of art, art, painting, poet, [unforgettable views], [known], cuisine, letter, e-mail, mail, [to send(sand), to receive], friendly letters, friendly, dear, penfriend, [spend], [yours]<take, promise, >
        one of the greatest, [going to], thanks for your letter, [best wishes, take care], 
 sentence: I would like to visit this museum. [What is this person famous for?] This view is unforgettable. Have a good time. How often does she write letter? E-mails are easy to use. Dear friends thanks for comeing. How are you enjoying your summer? How are you enjoying your holidays? I hope you are fine. [It would be great, if you could visit us in Moscow.] [Hope to hear from you soon.] Do you have any news from Olga? I can't wait. How are you enjoying your holidays? Are you going to visit us? 
+
+03.05
+words: clever, scissors, scene, fascinate, descent, scenario, soften, often, fasten, christen, [nother, other], [castle, whistle, wrestle], ballet, gourmet, [finally], <listen, driver, [where], why, piece, price, [it its], >
+       a piece of cake, [isn't he?], [aren't you?], price of the ticket, [her kitten], 
+sentence: Is he a driver? He is a driver. Will you be there. I will be there. I am cooking. [Why are you so sad? Where is the nearest supermarket? Are you OK?] Would you like a cup of coffee? Is she married? Are you hungry? [You're a doctor, aren't you? She is a doctor, isn't she?] I don't want to sleep at the moment. [Would you like a nother coffee?] His friends listen to music. 
