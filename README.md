@@ -210,3 +210,8 @@ sentence: I would like to visit this museum. [What is this person famous for?] T
 words: clever, scissors, scene, fascinate, descent, scenario, soften, often, fasten, christen, [nother, other], [castle, whistle, wrestle], ballet, gourmet, [finally], <listen, driver, [where], why, piece, price, [it its], >
        a piece of cake, [isn't he?], [aren't you?], price of the ticket, [her kitten], 
 sentence: Is he a driver? He is a driver. Will you be there. I will be there. I am cooking. [Why are you so sad? Where is the nearest supermarket? Are you OK?] Would you like a cup of coffee? Is she married? Are you hungry? [You're a doctor, aren't you? She is a doctor, isn't she?] I don't want to sleep at the moment. [Would you like a nother coffee?] His friends listen to music. 
+
+04.05
+words: whose, mine, backpack, ask, [tell, say] <who, whom, >(mine, yours, hers, its, ours, theirs, [his])
+       [ask me, ask him,] doesn't usually, to ask, to say, to tell, [tell me, ask me. say to me], 
+sentence: Whose is this? Whose backpack is this? Whose pen is this? Whose children are these? This is mine. This is not mine. These are mine. These are not mine. He says: Hi! [Tell me. Say to me. I tell you. I say to you.] I ask you. What does she say? What does he ask? Tell me about your family? They ask about you. I will ask you. I usually ask him. He doesn't usually ask me. Will you ask him? He will ask me. Perhaps, she will not ask him. She can't ask you. She asks him. He doesn't ask you. We will not ask you. She will ask him tomorrow. She likes to ask questions. Do you want to ask me a question? What does she say to him? I always forget to ask you. Tell me why. 
