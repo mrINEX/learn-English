@@ -1,6 +1,6 @@
 # learn-English19
 My steps in learn English. Puzzle-english.com thank you for your lessons.
-I am Vova (inex). I know English a little bit. I have got a big dream. My mind is changing now and I like it. Thank's
+I am Vova and inex. I know English a little bit. I have got a big dream. My mind is changing now and I like it. Thank's
 
 mylearn20.03
 words: month, midday, midnight, minute, week, year, yearly, every, hour, next
@@ -214,4 +214,9 @@ sentence: Is he a driver? He is a driver. Will you be there. I will be there. I 
 04.05
 words: whose, mine, backpack, ask, [tell, say] <who, whom, >(mine, yours, hers, its, ours, theirs, [his])
        [ask me, ask him,] doesn't usually, to ask, to say, to tell, [tell me, ask me. say to me], 
-sentence: Whose is this? Whose backpack is this? Whose pen is this? Whose children are these? This is mine. This is not mine. These are mine. These are not mine. He says: Hi! [Tell me. Say to me. I tell you. I say to you.] I ask you. What does she say? What does he ask? Tell me about your family? They ask about you. I will ask you. I usually ask him. He doesn't usually ask me. Will you ask him? He will ask me. Perhaps, she will not ask him. She can't ask you. She asks him. He doesn't ask you. We will not ask you. She will ask him tomorrow. She likes to ask questions. Do you want to ask me a question? What does she say to him? I always forget to ask you. Tell me why. 
+sentence: Whose is this? Whose backpack is this? Whose pen is this? Whose children are these? This is mine. This is not mine. These are mine. These are not mine. He says: Hi! [Tell me. Say to me. I tell you. I say to you.] I ask you. What does she say? What does he ask? Tell me about your family? They ask about you. I will ask you. I usually ask him. He doesn't usually ask me. Will you ask him? He will ask me. Perhaps, she will not ask him. She can't ask you. She asks him. He doesn't ask you. We will not ask you. She will ask him tomorrow. She likes to ask questions. Do you want to ask me a question? What does she say to him? I always forget to ask you. Tell me why.
+
+05.05
+words: [to suit, suit], for, about, [to], [give], <show, >
+       for me, for you, for him, about you, about me, show me, [give it to me], [give me], give it to me, give it to her, give it to him, 
+sentence: Meet my family. Where are you from? Tell me this story. I will not call you. Tell me your name. Call me in the evening. [I am going to watch this film.] You have a wonderful daughter. [This dress would suit you.] This book is for me. Who is that man? This present is for you. These sweets are for him. This song is about you. [Let's talk about weather.] Let's talk about this book. Tell me about your friend. Show me your new dress. See you in the cafe. This is for you. This is for me. This car is for me. Give it to me. Will you give it to me? You must give it to me. 
