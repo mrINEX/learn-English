@@ -241,3 +241,9 @@ sentence: Would you like to go for a walk? Are you hungry? [Here is your taxi, O
 words: [expensive, cheap], dear, strange, cuisine, [free], [hard], [heavy], food, foot, rain, [take], [difficult], [easy], slow, [good, well], 
        would suit, hard rock, heavy rain, a hard question, a heavy suitcase, [so heavy], heavy metal, a heavy car, a hard question, heavy rain, [aren't you], speak well, to swim well, [to feel well], 
 sentence: You don't need to pay. It's free. This ring is very expensive. I'm free as a bird in the sky. Are you free? It's not so expensive for me. [How much is this car?] [You have to make a hard choice.] Why is your suitcase so heavy? This box is so heavy. I have to take a taxi. Sometimes It is hard to understand her. It is easy. She has a hard life. This is a good answer. The weather is good today. [I need to find a good engineer.] They can swim very well. Good job. Good day. Have a good day. She doesn't feel well today. [Her English isn't very good.] [You look well. I don't feel well.] I do not feel well today. Have a good time. She runs very well for her age. He swims well. 
+
+12.05
+words: open, cheap, expensive, around, [close], [closed], easy, difficult, buy, [try],
+       [think], [thing], opportunity, [wait], [weight], [try], receive, tell, 
+       the only thing, 
+sentence: Open your eyes. Look around. It is too hot here. [Try to close your eyes and fall asleep.], [Come in. We are open.] The door is closed. The door is open. She closes the door. Her eyes are closed. What are you thinking about? I have so many things to tell you. [I don't think that you will become a doctor.] Could you wait for us? I can't wait to see you again. They should wait. Good things come to those who wait. What is his weight? [We try to keep calm.] I think it will rain today. I don't think you will become a journalist. 
