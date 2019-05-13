@@ -247,3 +247,8 @@ words: open, cheap, expensive, around, [close], [closed], easy, difficult, buy, 
        [think], [thing], opportunity, [wait], [weight], [try], receive, tell, 
        the only thing, 
 sentence: Open your eyes. Look around. It is too hot here. [Try to close your eyes and fall asleep.], [Come in. We are open.] The door is closed. The door is open. She closes the door. Her eyes are closed. What are you thinking about? I have so many things to tell you. [I don't think that you will become a doctor.] Could you wait for us? I can't wait to see you again. They should wait. Good things come to those who wait. What is his weight? [We try to keep calm.] I think it will rain today. I don't think you will become a journalist. 
+
+13.05
+words: [put], [get], receive, give, take, thing, think, [collect], whose, tasty, [too], [enough], 
+       from 9:00 to 17:00, [good way], 
+sentence: Put these books on the shelf. Give me your phone number. Take it from him. Put the box on the table. Why is this car so expensive? You should try to understand her. I will get his letter tomorrow. Put your backpack on the floor. May I get your phone number? It is cheap. It is hard to understand them. It is open today. It is expensive for us. [It is too cheap. It is too expensive.] It is too late. We are hungry too. This bag is cheap enough.
