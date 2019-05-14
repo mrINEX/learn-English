@@ -252,3 +252,11 @@ sentence: Open your eyes. Look around. It is too hot here. [Try to close your ey
 words: [put], [get], receive, give, take, thing, think, [collect], whose, tasty, [too], [enough], want, choose, 
        from 9:00 to 17:00, [good way], [try it on], [I'd like], another one,  
 sentence: Put these books on the shelf. Give me your phone number. Take it from him. Put the box on the table. Why is this car so expensive? You should try to understand her. I will get his letter tomorrow. Put your backpack on the floor. May I get your phone number? It is cheap. It is hard to understand them. It is open today. It is expensive for us. [It is too cheap. It is too expensive.] It is too late. We are hungry too. This bag is cheap enough. Can I try it on? Can you try on this dress? He can run fast. [How can I help you?] Can I try on these jeans? We would like to try on these shoes. [I will take it. Maybe I should try again?] 
+
+14.05
+words: give, take, put, get, high, low, suit, [welcome], [near], [also],
+       [there], basket, 
+       [there is], some water, 
+sentence: I will take it. I'll call you back later. We'll take it. They will be very glad to see you. Will you take this backpack? Will they come tonight? [I can't take this.] Who is it? Who is he? [Move your ass!]
+       [Here you are. You are welcom.] I am here. Do you live here? I can't wait here. Have a good day. Go away. [You like Olga, don't you?] Who can swim? Easy come, easy go.
+       There is a book in the room. I often come here. There is a tiger in the zoo. There is a present for you. There is no time to talk. 
