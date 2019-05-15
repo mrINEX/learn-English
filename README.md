@@ -260,3 +260,9 @@ words: give, take, put, get, high, low, suit, [welcome], [near], [also],
 sentence: I will take it. I'll call you back later. We'll take it. They will be very glad to see you. Will you take this backpack? Will they come tonight? [I can't take this.] Who is it? Who is he? [Move your ass!]
        [Here you are. You are welcom.] I am here. Do you live here? I can't wait here. Have a good day. Go away. [You like Olga, don't you?] Who can swim? Easy come, easy go.
        There is a book in the room. I often come here. There is a tiger in the zoo. There is a present for you. There is no time to talk. 
+
+15.05
+words: young, middle-aged, old, middle, man - men, woman - women, person - people, [elderly], elderly man, elderly woman, 
+       [so], car, [home, house], [road], [key], [find, lose], [loser], 
+       [0-2] baby, [2-12] child, boy, girl, baby-boy, baby-girl, [13-18] teenager, young man, girl, [18+] adult, 18-25 young adult, man, woman, person], [there are], a glass of water, [how mach], [lose money], [find money], 
+sentence: Olga is young. Ben is a teenager. Does she have a car? There is a black cat in the garden. Can you drive a car? [My car is too old.] Welcome home. I usually go home after work. [Home, sweet home! I am too tired. Whose keys are these.] Are they yours? No, they are not mine. [Do not lose your time.] I can not find my bag. I am loser. [Don't lose your time!] 
