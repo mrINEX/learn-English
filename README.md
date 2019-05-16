@@ -263,6 +263,12 @@ sentence: I will take it. I'll call you back later. We'll take it. They will be 
 
 15.05
 words: young, middle-aged, old, middle, man - men, woman - women, person - people, [elderly], elderly man, elderly woman, 
-       [so], car, [home, house], [road], [key], [find, lose], [loser], 
+       [so], car, home, house, [road], [key], [find, lose], [loser], 
        [0-2] baby, [2-12] child, boy, girl, baby-boy, baby-girl, [13-18] teenager, young man, girl, [18+] adult, 18-25 young adult, man, woman, person], [there are], a glass of water, [how mach], [lose money], [find money], 
 sentence: Olga is young. Ben is a teenager. Does she have a car? There is a black cat in the garden. Can you drive a car? [My car is too old.] Welcome home. I usually go home after work. [Home, sweet home! I am too tired. Whose keys are these.] Are they yours? No, they are not mine. [Do not lose your time.] I can not find my bag. I am loser. [Don't lose your time!] 
+
+16.05
+words: up, down, upstairs, downstairs, go up, go down, lift, [carry], [stairs], [stair],
+       [quick], [quickly], [slowly], [slow, fast], than, then, 
+       [to take a lift], [a slow reader], very slowly, a slow driver, to read slowly, [a quick answer], a fast walk, 
+sentence: Look up! [How many stairs are there?] They are going up. The girl is going down. How often do you take a lift? We live on the tenth floor. We have to take a lift. We never take a lift. Your clock is ten minutes slow. She usually speaks very slowly. Vova is a slow driver. He drives his car slowly. Does she always speak so fast? Is that car fast enough? Yes, this is the fasters car in the world. [I don't like fast food.] You walk very fast. Be quick. [Could you speak slowly?] 
