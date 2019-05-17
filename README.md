@@ -272,3 +272,8 @@ words: up, down, upstairs, downstairs, go up, go down, lift, [carry], [stairs], 
        [quick], [quickly], [slowly], [slow, fast], than, then, 
        [to take a lift], [a slow reader], very slowly, a slow driver, to read slowly, [a quick answer], a fast walk, 
 sentence: Look up! [How many stairs are there?] They are going up. The girl is going down. How often do you take a lift? We live on the tenth floor. We have to take a lift. We never take a lift. Your clock is ten minutes slow. She usually speaks very slowly. Vova is a slow driver. He drives his car slowly. Does she always speak so fast? Is that car fast enough? Yes, this is the fasters car in the world. [I don't like fast food.] You walk very fast. Be quick. [Could you speak slowly?] 
+
+17.05
+words: new, [dirty], now, [clean, clear], 
+       clean hands, the clear sky, clear eyes, a clean room, a clean face, dirty task, dirty money, clean clothes, 
+sentence: This is my new car. It is winter now. No, I will not marry her. Happy New Year. This is not my laptop. Her coat is too old. She would like to buy a new one. He cleans teeth every day. How often do you clean your hands? How often do you clean your teeth? How often do they clean teeth? 
