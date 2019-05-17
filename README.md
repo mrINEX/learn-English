@@ -274,6 +274,6 @@ words: up, down, upstairs, downstairs, go up, go down, lift, [carry], [stairs], 
 sentence: Look up! [How many stairs are there?] They are going up. The girl is going down. How often do you take a lift? We live on the tenth floor. We have to take a lift. We never take a lift. Your clock is ten minutes slow. She usually speaks very slowly. Vova is a slow driver. He drives his car slowly. Does she always speak so fast? Is that car fast enough? Yes, this is the fasters car in the world. [I don't like fast food.] You walk very fast. Be quick. [Could you speak slowly?] 
 
 17.05
-words: new, [dirty], now, [clean, clear], 
-       clean hands, the clear sky, clear eyes, a clean room, a clean face, dirty task, dirty money, clean clothes, 
-sentence: This is my new car. It is winter now. No, I will not marry her. Happy New Year. This is not my laptop. Her coat is too old. She would like to buy a new one. He cleans teeth every day. How often do you clean your hands? How often do you clean your teeth? How often do they clean teeth? 
+words: new, [dirty], now, [clean, clear], live, [leave], sweet, eat, sugar, 
+       clean hands, the clear sky, clear eyes, a clean room, a clean face, dirty task, dirty money, clean clothes, how many, how often, [how far], how much, [how long], 
+sentence: This is my new car. It is winter now. No, I will not marry her. Happy New Year. This is not my laptop. Her coat is too old. She would like to buy a new one. He cleans teeth every day. How often do you clean your hands? How often do you clean your teeth? How often do they clean teeth? Where do they live? Who lives in this house? [Leave this at once.] Don't leave us here. [Leave the door open.] She should not eat so many sweets. [Who is always right?] How much money do they earn? How long are you going to stay here? 
