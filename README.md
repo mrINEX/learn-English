@@ -291,3 +291,9 @@ words: present, there, [quick], [piece], [I'd, She'd, They'd], [I would],
        a 'present moment, to pre'sent oneself, something wrong, a piece of cake, [would like], [would not like], much bread, much food, a glass [of] water, a glass [of] wine, [a glass [of] milk], dark beer, light beer, a glass [of] beer, [a bottle of beer], a bottle of water, 
 sentence: This present is for you. [I am sorry but I have to leave. There is nothing to do here.] There is something wrong with them. [Nobody can uderstand him.] Nobody is at home. I would like. I would like a piece of cake. [How much bread would you like?] What does she like to eat? How much food do we need? [Where is the nearest food shop.] He is hungry and angry. I am so hungry. What would you like to eat? [Here you are. You are welcome.] 
        [Can I get something to drink?] How often does your sister drink coffee? Would you like tea with sugar? No, I never drink tea with sugar. [I am thirsty. I want something to drink.] 
+
+21.05
+words: [bit], than, [piece], [part], of, [spend],
+       [some, any], something, anything, somebody, anybody, 
+       a little bit, a bit late, [part [of] the day], part of the way, [piece of], [part of], something wrong, [any one, any time], 
+sentence: I want a piece of cake. I am a bit hungry. Would you like a piece of cake? [Wait a little bit.] I know only part of this story. [Here is your piece of cake.] Wait a bit. Part of the month I would like to spend in Moscow. There is something wrong with him. I have got some questions. He needs some time to think about it. Olga has got some presents for you. [Here is some food for your dog.] Do you have any sisters? He doesn't need any help. We don't have any friends. We would like some water. [Can I have some more tea? Do you want something to eat?] Do you have any problems at work? 
