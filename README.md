@@ -305,10 +305,15 @@ sentence: There is a cat on the box. Is there a laptop on the table? There are [
        Are you ready [to order]? Would you like something to drink? What would you like to eat? [Who is ready to order?] What would you like to order? What would they like to order? Is she ready for the trip? [Are you ready to order? Not yet!] No, we are not ready [yet]. We are ready to go. [Anything else? Anyone else?] Is there anything on the table. [What else would you like to tell us?] Who else can help you? [Where else can she be? There is nothing else I can do.] <Anything to drink? Anything to eat? Anything else?>
 
 23.05
-words: [bitter], early, [to taste], [tasty], [delicious], sweet, [terrible], [tear], 
+words: [bitter], early, [to taste], [tasty], [delicious], sweet, [terrible], [tear], juice, [beer], 
        
        [breakfast => lunch => dinner] [overreach]
        
        I can, I can't, Can I?, [some tea], [how far], [bitter tears]
 sentence: Can I have some tea? Do you have to get up so early? [Shall I open the window?] I can't swim. We don't know her name. Can they run fast? What do you think about it? Can your wife drive a car? How can I help you? [Can you answer my question? Yes, I can.] Do you know that young lady? I would like [some coffee]. [Here is your cup of coffee.] Would you like some coffee? Anything to drink? [Buy some sugar.] Could you help me please? Could you answer our questions?
-       [How does it taste? Is it tasty?] Not yet. Anythink to drink? Where are my keys? How far is it from your house? [Who knows the answer?] Why is she sad? Tastes differ. Is it tasty? Would you like [to taste] this jam? [The food tastes good.] We do not know your name. Who knows their surname? [The cake tastes delicious.] These sweets taste delicious. Help yourself! This chocolate cake is delicious. Tastes differ. Would you like a piece of cake? Do you like it? It tastes sweet. Do you like sweet wine? [He is so sweet.] It tastes delicious. Would you like to try this cake? What a delicious lunch. [Such good weather. Such good news.] What a delicious breakfast. [Such long hair!] It tastes terrible. That is a terrible dinner. It tastes bitter. Now a kiss. 
+       [How does it taste? Is it tasty?] Not yet. Anythink to drink? Where are my keys? How far is it from your house? [Who knows the answer?] Why is she sad? Tastes differ. Is it tasty? Would you like [to taste] this jam? [The food tastes good.] We do not know your name. Who knows their surname? [The cake tastes delicious.] These sweets taste delicious. Help yourself! This chocolate cake is delicious. Tastes differ. Would you like a piece of cake? Do you like it? It tastes sweet. Do you like sweet wine? [He is so sweet.] It tastes delicious. Would you like to try this cake? What a delicious lunch. [Such good weather. Such good news.] What a delicious breakfast. [Such long hair!] It tastes terrible. That is a terrible dinner. It tastes bitter. Now a kiss. We know only part of that story. Are you thirsty?
+
+26.05
+words: [put], [bed], [bad], chair, [on, in], 
+       any bed, 
+sentence: How many rooms are there in your flat? Is there any bed in that room? [This food leaves a bad taste in the mouth.] I feel bad today. I should stay in bed. 
