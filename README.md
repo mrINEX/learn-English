@@ -314,6 +314,9 @@ sentence: Can I have some tea? Do you have to get up so early? [Shall I open the
        [How does it taste? Is it tasty?] Not yet. Anythink to drink? Where are my keys? How far is it from your house? [Who knows the answer?] Why is she sad? Tastes differ. Is it tasty? Would you like [to taste] this jam? [The food tastes good.] We do not know your name. Who knows their surname? [The cake tastes delicious.] These sweets taste delicious. Help yourself! This chocolate cake is delicious. Tastes differ. Would you like a piece of cake? Do you like it? It tastes sweet. Do you like sweet wine? [He is so sweet.] It tastes delicious. Would you like to try this cake? What a delicious lunch. [Such good weather. Such good news.] What a delicious breakfast. [Such long hair!] It tastes terrible. That is a terrible dinner. It tastes bitter. Now a kiss. We know only part of that story. Are you thirsty?
 
 26.05
-words: [put], [bed], [bad], chair, [on, in], 
-       any bed, 
-sentence: How many rooms are there in your flat? Is there any bed in that room? [This food leaves a bad taste in the mouth.] I feel bad today. I should stay in bed. 
+words: [put], [bed], [bad], chair, [on, in], window,
+       [wall], [well], [at], [near], top, on top, 
+       [bottom], [touch], [at], [on],
+       any bed, the shop window, [at the wall, at the window], [near the wall, near the window], the top of a tree, the top of a house, the top of a head, [at the bottom], 
+       [from top to bottom], 
+sentence: How many rooms are there in your flat? Is there any bed in that room? [This food leaves a bad taste in the mouth.] I feel bad today. I should stay in bed. It is too hot here. [Do not open the window.] Walls have ears. How many windows are there in the room? [Girl at the window.] I am near the bus stop. 
