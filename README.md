@@ -322,7 +322,8 @@ words: [put], [bed], [bad], chair, [on, in], window,
 sentence: How many rooms are there in your flat? Is there any bed in that room? [This food leaves a bad taste in the mouth.] I feel bad today. I should stay in bed. It is too hot here. [Do not open the window.] Walls have ears. How many windows are there in the room? [Girl at the window.] I am near the bus stop. 
 
 27.05
-words: [to A, to S], [into], [through], [come in], come, near, bottom, 
-       [behind, front], [tooth, teeth], [in front], [in front of], 
-       behind the door, [through your eyes], [from ... into ...], [come in], almost never, a front tooth, front teeth, a front door, [in front of], 
-sentence: Come to me. Our shop is open from 9 to 5. It's too late. I am too hungry. [What do you need to do?] Put the books into the bag. He is going into the chop. [Look through the window.] Come into the room. [The road goes through the forest.] Will they come to the party? [Don't forget your keys in the car.] Come into the house. [May I come in? Yes, you may. No, you may not.] You may stay here. The dog is behind the boy. Where is your front door? [There is not anybody behind the door. The front view is wonderful.]
+words: [to A, to S], [into], [through], [come in], come, near, bottom
+       [behind, front], [tooth, teeth], [in front], [in front of]
+       [against], again, [towards], turn, 
+       behind the door, [through your eyes], [from ... into ...], [come in], almost never, a front tooth, front teeth, a front door, [in front of], at the bottom, 
+sentence: Come to me. Our shop is open from 9 to 5. It's too late. I am too hungry. [What do you need to do?] Put the books into the bag. He is going into the chop. [Look through the window.] Come into the room. [The road goes through the forest.] Will they come to the party? [Don't forget your keys in the car.] Come into the house. [May I come in? Yes, you may. No, you may not.] You may stay here. The dog is behind the boy. Where is your front door? [There is not anybody behind the door. The front view is wonderful.] I am against it. Are you against it? 
