@@ -327,3 +327,9 @@ words: [to A, to S], [into], [through], [come in], come, near, bottom
        [against], again, [towards], turn, 
        behind the door, [through your eyes], [from ... into ...], [come in], almost never, a front tooth, front teeth, a front door, [in front of], at the bottom, 
 sentence: Come to me. Our shop is open from 9 to 5. It's too late. I am too hungry. [What do you need to do?] Put the books into the bag. He is going into the chop. [Look through the window.] Come into the room. [The road goes through the forest.] Will they come to the party? [Don't forget your keys in the car.] Come into the house. [May I come in? Yes, you may. No, you may not.] You may stay here. The dog is behind the boy. Where is your front door? [There is not anybody behind the door. The front view is wonderful.] I am against it. Are you against it? 
+
+28.05
+words: [left], [right], [between], [raise], turn, behind,
+       [also], [so], [otherwise], near, 
+       [on the left], [on the right], a bit strange, a left-handed person, [in front of], [he also speaks], 
+sentence: There is a food shop on the left. [Turn left here, please.] I think you are right. [You can also come with me. They are also hungry.] 
