@@ -333,3 +333,8 @@ words: [left], [right], [between], [raise], turn, behind,
        [also], [so], [otherwise], near, 
        [on the left], [on the right], a bit strange, a left-handed person, [in front of], [he also speaks], 
 sentence: There is a food shop on the left. [Turn left here, please.] I think you are right. [You can also come with me. They are also hungry.] 
+
+29.05
+words: also, so, otherwise, against, towards, [would], 
+       [though], through, [although], 
+sentence: Be careful, otherwise you will fail. [Though the sun is shining, it is very cold.] 
