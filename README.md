@@ -338,3 +338,9 @@ sentence: There is a food shop on the left. [Turn left here, please.] I think yo
 words: also, so, otherwise, against, towards, [would], 
        [though], through, [although], 
 sentence: Be careful, otherwise you will fail. [Though the sun is shining, it is very cold.] 
+
+30.05(learn again)
+words: [also, too], such, [wise], otherwise, against, again, [towards],
+       -[though]-, -[although]-, [through], 
+       at the bottom, 
+sentence: We are so glad to see you again. I am against it. We are against it. [Are you against freedom of choise?] Are you against it? [Try to turn your umbrella towards the wind.] We are going towards our house. [Though I love her.] 
