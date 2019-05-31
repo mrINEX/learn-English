@@ -344,3 +344,8 @@ words: [also, too], such, [wise], otherwise, against, again, [towards],
        -[though]-, -[although]-, [through], 
        at the bottom, 
 sentence: We are so glad to see you again. I am against it. We are against it. [Are you against freedom of choise?] Are you against it? [Try to turn your umbrella towards the wind.] We are going towards our house. [Though I love her.] 
+
+31.05
+words: [except], [without], everywhere, [out], with, [otherwise], 
+       [except for], except for me, except for that book, except for you, except him, except for us, except Monday and Thursday, with hair, without hair, with make-up, without make-up, 
+sentence: I like all fruits except apples. [It is quiet everywhere except for the garden.] Do not leave without us. Come with me. [I never drink coffee without milk.] Do you drink coffee with sugar? Everybody is at school except you. [Everybody is ready except for you. Did you hear me?] Where is my money? No, I will not marry you. 
