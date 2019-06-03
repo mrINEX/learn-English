@@ -349,3 +349,10 @@ sentence: We are so glad to see you again. I am against it. We are against it. [
 words: [except], [without], everywhere, [out], with, [otherwise], 
        [except for], except for me, except for that book, except for you, except him, except for us, except Monday and Thursday, with hair, without hair, with make-up, without make-up, 
 sentence: I like all fruits except apples. [It is quiet everywhere except for the garden.] Do not leave without us. Come with me. [I never drink coffee without milk.] Do you drink coffee with sugar? Everybody is at school except you. [Everybody is ready except for you. Did you hear me?] Where is my money? No, I will not marry you. 
+
+03.06
+words: bed, bad, though, through, although, [except], without, behind, right, between, [buy], [upstairs],
+       [earth], ear, [unlike], [rise], [air], 
+       in front of, on the left, on the right, on top, at the bottom, at the window, [fresh air], 
+sentence: May I come in? Yes, you may. No, you may not. This house is too small for us. [She is going into the shop.] 
+       [How often do you travel by air?] You should drink more water. I need some fresh air. 
