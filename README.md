@@ -356,3 +356,9 @@ words: bed, bad, though, through, although, [except], without, behind, right, be
        in front of, on the left, on the right, on top, at the bottom, at the window, [fresh air], 
 sentence: May I come in? Yes, you may. No, you may not. This house is too small for us. [She is going into the shop.] 
        [How often do you travel by air?] You should drink more water. I need some fresh air. 
+
+04.06
+words: [life lives], [live], worry, rise
+       [east, west, south, north]
+       all my life, their lives, our lives, [live news], west wind, 
+sentence: Love is in the air. [Do you believe in life after death?] There is no life on the sun. They live a happy life. [We often watch life news. Do not leave me.] The Sun rises in the east. [Where should I go?]
