@@ -362,3 +362,12 @@ words: [life lives], [live], worry, rise
        [east, west, south, north]
        all my life, their lives, our lives, [live news], west wind, 
 sentence: Love is in the air. [Do you believe in life after death?] There is no life on the sun. They live a happy life. [We often watch life news. Do not leave me.] The Sun rises in the east. [Where should I go?]
+
+05.06
+words: world, [word], country, [which], [city, town]
+       [road], [lead], [side], [walk], work, [both]
+       [wrong], noisy, noise, quiet, calm, [way], 
+       in the world, in a city, on the road, [on this side, on that side], [both side], on the right side of the house, [noisy street], [quiet street], on the way, [right way, wrong way], 
+sentence: Can you translate this words from English into Russia? The world changes. [Which country do you live in?] Do you live in a town or in a city? We don't want to leave this city. 
+       Is this a new road? [Be careful when you cross the road.] There are too many cars on the road. There are no people on the road. The road is empty. [I have to work now.] Show me the way. This is the wrong way. Write your name on the right. 
+       It's noisy! It is too noisy here. 
