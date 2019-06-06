@@ -371,3 +371,9 @@ words: world, [word], country, [which], [city, town]
 sentence: Can you translate this words from English into Russia? The world changes. [Which country do you live in?] Do you live in a town or in a city? We don't want to leave this city. 
        Is this a new road? [Be careful when you cross the road.] There are too many cars on the road. There are no people on the road. The road is empty. [I have to work now.] Show me the way. This is the wrong way. Write your name on the right. 
        It's noisy! It is too noisy here. 
+
+06.06
+words: bear, beer, [cage], [straight], [trunk], [rhino], of,
+       household, house, horse, 
+       at the zoo, [more than], [run round], [on the way home], [Here is ...], cold-blooded, without fur, 
+sentence: Thank you. You are welcome. Is the zoo open today? See you at the zoo. Don't worry. Tomorrow you will feel better. [Is it a wild animal?] This is the best day of my life. [Such good weather today.] Look at that grey elephant. How many fish can you see? There are three cats at the window. [How many cats are there in the house?] Can your parrot talk? 
