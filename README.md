@@ -377,3 +377,8 @@ words: bear, beer, [cage], [straight], [trunk], [rhino], of,
        household, house, horse, 
        at the zoo, [more than], [run round], [on the way home], [Here is ...], cold-blooded, without fur, 
 sentence: Thank you. You are welcome. Is the zoo open today? See you at the zoo. Don't worry. Tomorrow you will feel better. [Is it a wild animal?] This is the best day of my life. [Such good weather today.] Look at that grey elephant. How many fish can you see? There are three cats at the window. [How many cats are there in the house?] Can your parrot talk? 
+
+07.06
+words: [won't], will not, because, then, than, cheap, [receive], but, or, 
+       I like, [I will not, I won't], 
+sentence: She likes me. She will like it. She will like him. [You won't like it. You will not like it.] I have to go because it is late.
