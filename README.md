@@ -382,3 +382,9 @@ sentence: Thank you. You are welcome. Is the zoo open today? See you at the zoo.
 words: [won't], will not, because, then, than, cheap, [receive], but, or, 
        I like, [I will not, I won't], 
 sentence: She likes me. She will like it. She will like him. [You won't like it. You will not like it.] I have to go because it is late.
+
+08.06
+words: then, [won't, will not], because, so, surrender, [clever], [doubt],
+       [wrong], wrist, wrestle, [edge], [whole], answer, sword, [guess], guest, guard, 
+       [because of you], build, biscuit, [west, vest] wet, [horn], 
+sentence: [Because of you I am always late.] This vest is wet. Leave her alone. 
