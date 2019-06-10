@@ -388,3 +388,10 @@ words: then, [won't, will not], because, so, surrender, [clever], [doubt],
        [wrong], wrist, wrestle, [edge], [whole], answer, sword, [guess], guest, guard, 
        [because of you], build, biscuit, [west, vest] wet, [horn], 
 sentence: [Because of you I am always late.] This vest is wet. Leave her alone. 
+
+10.06
+words: [agree, agreed], lived, together, [believe], [receive], [compare compared], [imagine imagined], [explain], sign signed, call, play played,
+       [agree, compare, explain]
+       [move moved, return returned, arrive arrived], [appear], follow, followed, form, formed
+       I agree, He agrees, 
+sentence: We agreed to help him. I can not agree with you. He agreed with us. He agree[d] to visit us. I believe[d] you. I receive[d] a letter. You surprised me. We believe in you. We believed you. I damaged your car. [Try not to damage his car. It is very expensive.] You damaged my car. I don't believe him. [I worried about you. I tried to help you.] Finally he returned home. What time will he arrive? [Cover me!] 
