@@ -395,3 +395,7 @@ words: [agree, agreed], lived, together, [believe], [receive], [compare compared
        [move moved, return returned, arrive arrived], [appear], follow, followed, form, formed
        I agree, He agrees, 
 sentence: We agreed to help him. I can not agree with you. He agreed with us. He agree[d] to visit us. I believe[d] you. I receive[d] a letter. You surprised me. We believe in you. We believed you. I damaged your car. [Try not to damage his car. It is very expensive.] You damaged my car. I don't believe him. [I worried about you. I tried to help you.] Finally he returned home. What time will he arrive? [Cover me!] 
+
+11.06
+words: [achieve achieved], [improve improved], [remove removed], [arrive arrived], [appear appeared], cover, discover, return, move, die, prepare, increase, 
+sentence: He achieved a lot. It is not easy to improve your English. I just called to say: "I love you". They achieved a lot. Could you enter the room? 
