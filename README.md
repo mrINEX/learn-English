@@ -399,3 +399,7 @@ sentence: We agreed to help him. I can not agree with you. He agreed with us. He
 11.06
 words: [achieve achieved], [improve improved], [remove removed], [arrive arrived], [appear appeared], [agree agreed], [receive received], [compare compared], [imagine imagined], [explain explained], [sign signed], [worry worried], cry, damage, cover, discover, return, move, die, prepare, increase, follow, form, believe, 
 sentence: He achieved a lot. It is not easy to improve your English. I just called to say: "I love you". They achieved a lot. Could you enter the room? I worried about you. 
+
+13.06
+words: [count counted], [suggest suggested], [support supported], [wait waited], [last lasted], [note noted], [sound sounded], [decide decided], [include included], [study studied], indicate, create, collect, want, protect
+sentence: He always supports us. Count from one to ten. I translated the text. You have to count the children. I decided to start learning English. We decided to stay here. [What does it include?] We can not decide.
