@@ -403,3 +403,7 @@ sentence: He achieved a lot. It is not easy to improve your English. I just call
 13.06
 words: [count counted], [suggest suggested], [support supported], [wait waited], [last lasted], [note noted], [sound sounded], [decide decided], [include included], [study studied], indicate, create, collect, want, protect
 sentence: He always supports us. Count from one to ten. I translated the text. You have to count the children. I decided to start learning English. We decided to stay here. [What does it include?] We can not decide.
+
+15.06
+words: suddenly, [ask asked], [walk walked], [check checked], [drop dropped], [hope hoped], [develop developed], [notice noticed], [produce produced, reduce reduced], promise, expense, [laugh laughed], 
+sentence: [He asked me where to go.] You helped me a lot. He [suddenly] stopped the car. [I hoped for the best. He developed this company. I noticed a mistake.] He helped us to develop this company. She laughed at me. Do not forget to wash your hands. 
