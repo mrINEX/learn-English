@@ -407,3 +407,9 @@ sentence: He always supports us. Count from one to ten. I translated the text. Y
 15.06
 words: suddenly, [ask asked], [walk walked], [check checked], [drop dropped], [hope hoped], [develop developed], [notice noticed], [produce produced, reduce reduced], promise, expense, [laugh laughed], 
 sentence: [He asked me where to go.] You helped me a lot. He [suddenly] stopped the car. [I hoped for the best. He developed this company. I noticed a mistake.] He helped us to develop this company. She laughed at me. Do not forget to wash your hands. 
+
+18.06
+words: laugh laughed, expense, reduce, appear, [did not - didn't]
+       come-came-come, become-became-become, begin-began-begun, sign-sang-sung, drink-drank-drunk, do/does-did-done, [go-(went)-gone, do-did-done], let-let-let, hurt-hurt-hurt, put-put-put, 
+       [hurt], [let]
+sentence: I did not answer. I didn't answer. He did not ask. He did not promise. [He did not laugh at you.] She didn't notice me. [We didn't prepare a report.] I didn't want to come. Did you improve your English? Did you try to remember my number? Why did you laugh? What did you want? When did you arrive? Where did he go? Did he go to work? [Who played chess yesterday?] When did Olga come home? Why did you cry? Who do you speak with? Who works in a hospital? She didn't live there. I talked to him. Did you ask her name? No, I didn't ask her name. Yes I asked her name. Did you improve your English? He [came] late at night. We [drank] some tea. We [sang] many songs together. [There is nothing to do. Does she sleep well?] They became good friends. 
