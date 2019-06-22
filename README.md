@@ -417,3 +417,8 @@ sentence: I did not answer. I didn't answer. He did not ask. He did not promise.
 20.06
 words: [speak-spoke-spoken, forget-forgot-forgotten, write-wrote-written], put-put-put, [give-gave-given, take-[took]-taken, eat-ate-    eaten], [see-saw-seen], know-knew-known, [be - was/were - been], ---[scared]---, [do - did - done], [fall-fell-fallen], 
 sentence: He spoke to me. I did not speak to him. We wrote a book. He didn't forget to send you a letter. [We forgot to leave you a message.] [I saw an angel.] We saw her yesterday. We knew that. I knew that woman. We worked together. [I was scared.] We were satisfied. I was happy to see her. We were glad to meet you. It was nice to visit your family. I was hungry so I ate four pieces of cake. We were tired but happy. [Were there any people? He wasn't there.] Was he angry with you? [Were you at the party?] Were there any books on the table? They were good friends. [He fell into the river.] They forgot to close the window. Were you glad to see her? 
+
+22.06
+words: stand-stood-stood, understand-understood-understood, have-had-had, [find-found-found], hurt-hurt-hurt, say-said-said, pay-paid-paid, tell-told-told, win-won-won, 
+       [everybody stood up], 
+sentence: He stood waiting. He understood me. He didn't undersand me. Why were you sad. [Sometimes it was hard to understand her.] We had no time. He took an apple and ate it. Who found your phone? [You must pay taxes.] Olga said that it was a sicret. [They told you the truth.] 
