@@ -432,3 +432,8 @@ sentence: Hold my hand tightly. He [taught] us to swim. Don't lose your friends.
 words: need-needed, [accident], [immediately], die-died, [dead], hurt, hurt-hurt-hurt, put-put-put, teach-taught-taught, during,
        [safe], save, danger, [dangerous, serious, famous], hurt, 
 sentence: Could you help me? [Nobody can help them.] I don't need your answer. What do you need? Help yourself. He needs some time. She hurt me. Do not hurt him. My head hurts. [Tell me where it hurts?] You should leave immediately. [Their love will never die.] He died from cancer. [He is dead.] Nobody wants to die. We feel safe in this town. [It will save you one hour.] We wish you a safe trip. [Danger! Keep out!] It is dangerous. Is it safe? Is it dangerous? He is trying to save his money. 
+
+27.06
+words: urgent, important, immediately, [education], [simple], past, present, [-(not +)reduce], notice, improve, 
+       [important decision], have-had-had, 
+sentence: This problem is the most urgent. [She decided to leave immediately. This question is urgent.] He is in urgent need of help. He lives a simple life. It is not simple to find her house. He never gets up at seven. I want to become a famous writer. Olga likes to play chess. [What did he answer?] Sorry, I forgot to call you. [He let me go.] You should stay in bed if you feel sick. [You hurt me. What did you do yesterday?] What will you do tomorrow? 
