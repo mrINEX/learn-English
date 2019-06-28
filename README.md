@@ -437,3 +437,9 @@ sentence: Could you help me? [Nobody can help them.] I don't need your answer. W
 words: urgent, important, immediately, [education], [simple], past, present, [-(not +)reduce], notice, improve, 
        [important decision], have-had-had, 
 sentence: This problem is the most urgent. [She decided to leave immediately. This question is urgent.] He is in urgent need of help. He lives a simple life. It is not simple to find her house. He never gets up at seven. I want to become a famous writer. Olga likes to play chess. [What did he answer?] Sorry, I forgot to call you. [He let me go.] You should stay in bed if you feel sick. [You hurt me. What did you do yesterday?] What will you do tomorrow? 
+
+28.06
+words: agree, receive, imagine, fortune, [return], [appear], [lose-lost-lost], [meet-met-met], speak-spoke-spoken, eat-ate-eaten, fall-fell-fallen, stand-stood-stood, [tell-told-told], find-found-found, win-won-won, [send-sent-sent], [mean-meant-meant]
+       [want], believe, [believe in], hope, want to, [break], to break free, 
+sentence: He agreed to help us. I had a road accident. [I hurt my head.] Nobody died but many people cried. [I was in urgent need of help. He let us go.]
+       I don't believe you. How can you believe him? I believe in love. [I believe you. I believe in you.] Let's hope for the best. [Do these people know each other?] I hope to leave work earlier today. He hopes for the best. [I want to break free.] I want to believe. [I want to know what love is.] Nobody wants to be lonly. I want a new car. I want to learn English. I want to speak English very well. 
