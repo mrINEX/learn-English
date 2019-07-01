@@ -443,3 +443,7 @@ words: agree, receive, imagine, fortune, [return], [appear], [lose-lost-lost], [
        [want], believe, [believe in], hope, want to, [break], to break free, 
 sentence: He agreed to help us. I had a road accident. [I hurt my head.] Nobody died but many people cried. [I was in urgent need of help. He let us go.]
        I don't believe you. How can you believe him? I believe in love. [I believe you. I believe in you.] Let's hope for the best. [Do these people know each other?] I hope to leave work earlier today. He hopes for the best. [I want to break free.] I want to believe. [I want to know what love is.] Nobody wants to be lonly. I want a new car. I want to learn English. I want to speak English very well. 
+
+29.06
+words: hate, simple, [please - to please - pleased] (with) [satisfy - satisfied], curiosity, glad, [quite | quiet], [surprise - surprised], [worry - worried], be worried, 
+sentence: I like you. I love you. I don't like. Do you love this girl? [I hate.] They love each other. Could you repeate please? Keep quiet, please. [You can not please everybody.] It is hard to please her. [You will never please everyone.] They are pleased [with] their new flat. He is satisfied [with] his new project. [Is she satisfied with her job?] Does she look surprised. He is not pleased with his new job. I am not satisfied with my new job. We worry about you. [Don't worry about it.] You should not worry about it. [Why should I worry about it?] I am worried about Olga. It's so hard to surprise you. 
