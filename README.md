@@ -447,3 +447,8 @@ sentence: He agreed to help us. I had a road accident. [I hurt my head.] Nobody 
 29.06
 words: hate, simple, [please - to please - pleased] (with) [satisfy - satisfied], curiosity, glad, [quite | quiet], [surprise - surprised], [worry - worried], be worried, 
 sentence: I like you. I love you. I don't like. Do you love this girl? [I hate.] They love each other. Could you repeate please? Keep quiet, please. [You can not please everybody.] It is hard to please her. [You will never please everyone.] They are pleased [with] their new flat. He is satisfied [with] his new project. [Is she satisfied with her job?] Does she look surprised. He is not pleased with his new job. I am not satisfied with my new job. We worry about you. [Don't worry about it.] You should not worry about it. [Why should I worry about it?] I am worried about Olga. It's so hard to surprise you. 
+
+02.07
+words: [afraid], [ghost], able, be afraid, [promise], lie, lie, [tell a lie], together, 
+       [suggest], [let], late, [let us - let's], 
+sentence: Don't tell a lie. She always tells a lie. [Why does a bag lie here?] Suggest [to] me. [I suggest a cup of coffee to her.] He suggests a nice dress to her. [Tell me. Ask him.] Tell him the truth. [I let you go I let you fly.] I will never let you go. [Let me ask you a question.] Let me know. Suggest to her. [Let us speak English.] Introduce myself. [Who let you take my wallet?] 
