@@ -452,3 +452,9 @@ sentence: I like you. I love you. I don't like. Do you love this girl? [I hate.]
 words: [afraid], [ghost], able, be afraid, [promise], lie, lie, [tell a lie], together, 
        [suggest], [let], late, [let us - let's], 
 sentence: Don't tell a lie. She always tells a lie. [Why does a bag lie here?] Suggest [to] me. [I suggest a cup of coffee to her.] He suggests a nice dress to her. [Tell me. Ask him.] Tell him the truth. [I let you go I let you fly.] I will never let you go. [Let me ask you a question.] Let me know. Suggest to her. [Let us speak English.] Introduce myself. [Who let you take my wallet?] 
+
+04.07
+words: absolutely, immediately, unfortunately, agree, [so], too,
+       quite, quiet, [quite right], [keep quiet], quite different, 
+sentence: You'ar absolutely right. [Who is angry with you?] You are always late. [I was not right.] It is absolutely wrong. [I agree with you. Who agrees with her?] Do you agree to meet at the station? [I think so too.] We think so too. [I thibk so.] I think of you. He is thinking of food. Does he agree with you? I believe him absolutely. [The food is absolutely delicious.]
+       You are not quite right. Am I wrong? We have to go now. [I am afraid. It is [quite a hard day].] 
