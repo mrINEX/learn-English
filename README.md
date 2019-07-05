@@ -456,5 +456,11 @@ sentence: Don't tell a lie. She always tells a lie. [Why does a bag lie here?] S
 04.07
 words: absolutely, immediately, unfortunately, agree, [so], too,
        quite, quiet, [quite right], [keep quiet], quite different, 
-sentence: You'ar absolutely right. [Who is angry with you?] You are always late. [I was not right.] It is absolutely wrong. [I agree with you. Who agrees with her?] Do you agree to meet at the station? [I think so too.] We think so too. [I thibk so.] I think of you. He is thinking of food. Does he agree with you? I believe him absolutely. [The food is absolutely delicious.]
+sentence: You'ar absolutely right. [Who is angry with you?] You are always late. [I was not right.] It is absolutely wrong. [I agree with you. Who agrees with her?] Do you agree to meet at the station? [I think so too.] We think so too. [I think so.] I think of you. He is thinking of food. Does he agree with you? I believe him absolutely. [The food is absolutely delicious.]
        You are not quite right. Am I wrong? We have to go now. [I am afraid. It is [quite a hard day].] 
+
+05.07
+words: want, [laugh], love, hate, [haircut]
+       [mean], mean, 
+sentence: I love my mother. [I hope to complete this task.] They love each other. Do you love her? I love my new flat. [Don't laugh at him.] He never laughs at us. Why are you laughing at them? [He likes driving a car.] I like speaking with my best friend. I like doing exercises. Olga likes cooking. Do you like [jogging]?
+       [I didn't mean it.]  I didn't say it. [Me too.] I didn't do it. I mean it. [What do you mean to do?] [What do you mean?] I mean you. What does he mean? What do they mean? I don't think so. He is so mean. [You can't be so mean.] I didn't think so. 
