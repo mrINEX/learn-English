@@ -464,3 +464,9 @@ words: want, [laugh], love, hate, [haircut]
        [mean], mean, 
 sentence: I love my mother. [I hope to complete this task.] They love each other. Do you love her? I love my new flat. [Don't laugh at him.] He never laughs at us. Why are you laughing at them? [He likes driving a car.] I like speaking with my best friend. I like doing exercises. Olga likes cooking. Do you like [jogging]?
        [I didn't mean it.]  I didn't say it. [Me too.] I didn't do it. I mean it. [What do you mean to do?] [What do you mean?] I mean you. What does he mean? What do they mean? I don't think so. He is so mean. [You can't be so mean.] I didn't think so. 
+
+06.07
+words: [against], [should], must, 
+sentence: You cannot please everybody. Hi thinks so too. I like you so much.
+       [Should I go there?] Can I go there? Should I stay here? You should not go there. I'm hungry. Should I eat? You shouldn't smoke. [Should I be happy?] She shouldn't be angry. Should he go there? Should I go? Should he go? Yes, I should. [Should I sing tonight?] Should he pack a suitcase? Should he continue? Can I go? You shouldn't go alone. Should we go in the morning? Should I take my passport? [Should I wait here?]
+       What should I do? What do you do? Where should he go? What is it? You must do it. He should do more exercises. You shouldn't make mistakes. [What should I ask?] How should I make less mistakes? 
