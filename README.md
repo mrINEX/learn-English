@@ -468,5 +468,11 @@ sentence: I love my mother. [I hope to complete this task.] They love each other
 06.07
 words: [against], [should], must, 
 sentence: You cannot please everybody. Hi thinks so too. I like you so much.
-       [Should I go there?] Can I go there? Should I stay here? You should not go there. I'm hungry. Should I eat? You shouldn't smoke. [Should I be happy?] She shouldn't be angry. Should he go there? Should I go? Should he go? Yes, I should. [Should I sing tonight?] Should he pack a suitcase? Should he continue? Can I go? You shouldn't go alone. Should we go in the morning? Should I take my passport? [Should I wait here?]
+       [Should I go there?] Can I go there? Should I stay here? You should not go there. [I'm hungry. Should I eat?] You shouldn't smoke. [Should I be happy?] She shouldn't be angry. Should he go there? Should I go? Should he go? Yes, I should. [Should I sing tonight?] Should he pack a suitcase? Should he continue? Can I go? You shouldn't go alone. Should we go in the morning? Should I take my passport? [Should I wait here?]
        What should I do? What do you do? Where should he go? What is it? You must do it. He should do more exercises. You shouldn't make mistakes. [What should I ask?] How should I make less mistakes? 
+
+07.07
+words: lose-lost-lost, eat-ate-eaten, meet-met-met, [fall-fell-fallen], stand-stood-stood, [tell-told-told], speake-spoke-spoken, [find-found-found], win-won-won, forget-forgot-forgotten, [send-sent-sent], [mean-meant-meant], have-had-had, [will : I'll, we'll, ]
+       [can - could, will - would, must - had to], [a book of Olga - Olga's book], upstairs, [small-smaller-the smallest], fast-faster-the fastest, [than, then], [any - some], third, second, first, 
+       [good-better-the best, bad-worse-the worst, little-less-the least, many/much-more-the most]
+sentence: What is her address? What is their phone number? I do not know your name. [You will never know. I will never show what I feel] We cannot visit you today. We'll try to come tomorrow. I work in Moscow. I am working now. Did they work yesterday? [I could help you.] He has to get up at seven every morning. You don't have to work till late at night. How much tea would you like? The moon is beautiful. There is much water in the glass. [It could be worse.] Hundreds of people died during the war. Who is the first? There is somebody at the window. 
