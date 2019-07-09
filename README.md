@@ -480,3 +480,8 @@ sentence: What is her address? What is their phone number? I do not know your na
 08.07
 words: cheap, [sick], wrinkle, wrong, travelling, coin, rain, boy, stay, [brown, town], [fool], room, moon, tall, already, [far], [store], [engineer, inspire, pure], [during], [talk], tall, falling, 
 sentence: [Do you see my friend there?] It's not far from here. 
+
+09.07
+words: surname, [must, have to, should], order, [I'd like - I would like], tastes, [delicious], round, [though - although], since, until, [buy - bought], 
+sentence: Good morning, good afternoon, good evening, [What do you do?]. [What] a beautiful day. [Such] a terrible day. Is it warm or cold? It's terrible weather because it's cold. [What time is it? What's the time?], [at quarter to five, at quarter past five], at half past five p.m., at night,. Let's meet at quarter past four. What time does the film start? [Nice to meet you. Me too.] You must stop the car. [Tastes differ. Why don't you eat?] 
+       I think so too. I agree with you. You are absolutely right. [You're not quite right. You aren't quite right.] I can't swim because I'm afraid of water. [Why did you do it before you asked me.] Sorry, what do you mean? Sorry, I didn't mean it. 
