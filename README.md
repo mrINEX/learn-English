@@ -487,5 +487,7 @@ sentence: Good morning, good afternoon, good evening, [What do you do?]. [What] 
        I think so too. I agree with you. You are absolutely right. [You're not quite right. You aren't quite right.] I can't swim because I'm afraid of water. [Why did you do it before you asked me.] Sorry, what do you mean? Sorry, I didn't mean it. 
 
 10.07
-words: dear, [enjoy], bye, buy, [firstly], [though], [although], often, usually, [sometimes], [suggest], [otherwise], yours, [yesterday], [going to visit = going to], [between], [which], [wearing],
+words: dear, [enjoy], bye, buy, [firstly], [though], [although], often, usually, [sometimes], [suggest], [otherwise], yours, [yesterday], [going to visit = going to], [between], [which], [wearing]
+       [WHOSE], near, [to please her], quite, 
 sentence: I [received] a letter. Our mother [sent] a letter. How is your brother? I learn English because I love this language. Better late [than] never. We often go to this park in winter. She usually drinks coffee [without] sugar. Sometimes I am sad. [He sometimes works till late at night. You are absolutely wrong sometimes.] She suggested a new club. Can you suggest a good restaurant. [Hope to hear from you soon.] Hope to see you again. Hope to meet your friends soon. [I hope it will not rain.] Best wishes. Take care. WIth love. Yours, Vova. I am tired so I will go to bed. [How about you? Best wishes, Vova.] What are you going to do on Sunday? How long will you stay there? [[WHICH] car is the fastest?]
+       What did you mean? [Thank you. You are welcom.] Today is my last day at school. [It is quite hot here.] I can't wait. 
