@@ -13,3 +13,10 @@ words: [skin], [complexion]
       beautiful, [pretty], [handsome], [good-looking, attractive, nice], [plain-looking, unattractive, ugly], 
 sentence: [fair] skin, [pale] skin, [tanned] skin, [dark] skin, [brown] skin, [light-brown] skin, [Asian], [a pretty girl], [a handsome man], a beautiful woman, 
   He is white. [He has got fair skin]. He is black. [He has got dark skin.] You are white. You are black. He is Asian. She has got [a] tanned complexion. She is attractive. 
+
+18.07
+words: [height - weight], tall, short, [average] height, [medium] height, eight, attractive, aren't, isn't
+      body [build], [thin], [skinny], skin
+      [slim], [slender], heavy, [overweight], [stout], [plump], fat, 
+sentence: a tall man, a thin man, a skinny girl, [a stout man, a plump baby], plump lips, 
+      I'm tall. You are short. Olga is average height. I'm 175 centimeters [tall]. He is average height. I'm not tall. I'm not beautiful. I'm not pretty. He is not ugly. I am an attractive woman. I am average height. I'm slim and slender. Anna is fat. Anna is overweight. 
