@@ -26,3 +26,9 @@ words: hair, [fair], [length], PARSE, blond, brunet
       ! type, [wavy], [curly], [straight], [bald], 
 sentence: [hair length], shoulder-length hair, short hair, hair colour, red hair, [fair hair], [blond - blonde, brunet - brunette], [grey hair], 
       I have got medium length hair. I have got shoulder-length hair. She has got grey hair. I'm bald. He is bald. [I have got short wavy red hair.] 
+
+20.07
+words: [almond], eyebrows, [thin], [bush], [thick], eyelashes, [brow], [bush - lash], 
+      face, [round], [oval], square, long, [I've got - You've got - They've got - We've got], [He's got - She's got - It's got]
+      almond eyes, [bushy eyebrows], 
+sentence: I have got big blue eyes. She's got thick eyelashes. 
