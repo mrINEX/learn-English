@@ -28,7 +28,15 @@ sentence: [hair length], shoulder-length hair, short hair, hair colour, red hair
       I have got medium length hair. I have got shoulder-length hair. She has got grey hair. I'm bald. He is bald. [I have got short wavy red hair.] 
 
 20.07
-words: [almond], eyebrows, [thin], [bush], [thick], eyelashes, [brow], [bush - lash], 
+words: [almond], eyebrows, [thin], [bush], [thick], eyelashes, [a brow], [a bush - a lash], 
       face, [round], [oval], square, long, [I've got - You've got - They've got - We've got], [He's got - She's got - It's got]
       almond eyes, [bushy eyebrows], 
 sentence: I have got big blue eyes. She's got thick eyelashes. 
+
+21.07
+words: nose, [pointed], [upturned], [bulbous], [crooked], mouth, lips, [thin], [full], STAY - REMAIN
+       [moustache - mustache], [beard], straight
+       [a freckle - freckles], [a mole - moles], [a wrinkle - wrinkles], [a pimple - pimples]
+       [character - temper], hot-tempered, even-tempered, [extrovert - introvert], [an optimist, a pessimist], emotional, [RESERVED], [sociable], shy, [confident], [self-confident], 
+      a crooked nose, an upturned nose, a bulbous nose, a pointed nose, [thin lips, full lips], 
+sentence: I haven't not a beard. He has got [a] long moustache. He is a confident man. 
