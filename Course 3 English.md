@@ -40,3 +40,8 @@ words: nose, [pointed], [upturned], [bulbous], [crooked], mouth, lips, [thin], [
        [character - temper], hot-tempered, even-tempered, [extrovert - introvert], [an optimist, a pessimist], emotional, [RESERVED], [sociable], shy, [confident], [self-confident], 
       a crooked nose, an upturned nose, a bulbous nose, a pointed nose, [thin lips, full lips], 
 sentence: I haven't not a beard. He has got [a] long moustache. He is a confident man. 
+
+23.07
+words: clothes, skirt - skirts, shorts, [wear], trousers, [shirt T-shirt shorts], [top - tank top], [blouse], [sandals], [flip-flops], [swimsuit], bikini, [swimming trunks], sunglasses, [hat], [cap], 
+      summer [clothes], 
+sentence: I wear shorts. You wear a dress. In summer boys wear shorts. In summer I wear [sandals] and [flip-flops]. Have you got a bikini? 
