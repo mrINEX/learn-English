@@ -47,6 +47,6 @@ words: clothes, skirt - skirts, shorts, [wear], trousers, [shirt T-shirt shorts]
 sentence: I wear shorts. You wear a dress. In summer boys wear shorts. In summer I wear [sandals] and [flip-flops]. Have you got a bikini? 
 
 24.07
-words: autumn, [warm], [sleeve], pants - trousers, [jeans], [pair], 
-      autumn clothes, warm clothes, in autumn, [short-sleeved], [long-sleeved], a short sleeve, [these jeans], [a pair of jeans], 
-sentence: 
+words: autumn, [warm], [sleeve], pants - trousers, [jeans], [pair], [sweater, jumper, sweatshirt, cardigan], [jacket], [denim], [coat - raincoat], [boots, tall boots, rain boots, wellington boots, wellingtons], an umbrella, 
+      autumn clothes, warm clothes, in autumn, [short-sleeved], [long-sleeved], a short sleeve, [these jeans], [a pair of jeans], one pair of shorts, two pairs of trousers, [leather jacket], [denim jacket], 
+sentence: [When it's cold I wear my warm sweater.] What a lovely sweater. 
