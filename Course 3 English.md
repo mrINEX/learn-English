@@ -45,3 +45,8 @@ sentence: I haven't not a beard. He has got [a] long moustache. He is a confiden
 words: clothes, skirt - skirts, shorts, [wear], trousers, [shirt T-shirt shorts], [top - tank top], [blouse], [sandals], [flip-flops], [swimsuit], bikini, [swimming trunks], sunglasses, [hat], [cap], 
       summer [clothes], 
 sentence: I wear shorts. You wear a dress. In summer boys wear shorts. In summer I wear [sandals] and [flip-flops]. Have you got a bikini? 
+
+24.07
+words: autumn, [warm], [sleeve], pants - trousers, [jeans], [pair], 
+      autumn clothes, warm clothes, in autumn, [short-sleeved], [long-sleeved], a short sleeve, [these jeans], [a pair of jeans], 
+sentence: 
