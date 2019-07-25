@@ -50,3 +50,8 @@ sentence: I wear shorts. You wear a dress. In summer boys wear shorts. In summer
 words: autumn, [warm], [sleeve], pants - trousers, [jeans], [pair], [sweater, jumper, sweatshirt, cardigan], [jacket], [denim], [coat - raincoat], [boots, tall boots, rain boots, wellington boots, wellingtons], an umbrella, 
       autumn clothes, warm clothes, in autumn, [short-sleeved], [long-sleeved], a short sleeve, [these jeans], [a pair of jeans], one pair of shorts, two pairs of trousers, [leather jacket], [denim jacket], 
 sentence: [When it's cold I wear my warm sweater.] What a lovely sweater. 
+
+25.07
+words: clothes, don't, haven't got, hasn't got, isn't, aren't, [fur], hat, cap, [earmuffs], [gloves - mittens], scarf, [socks - sock], [stockings - stocking], [tights], 
+      winter clothes, [fur coat], [fur hat], 
+sentence: In winter I don't wear flip-flops. These earmuffs aren't warm. I like these earmuffs. Where is your fur hat? Her raincoat is there. You should wear tights in winter. [Why don't you wear stockings?] 
