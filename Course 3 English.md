@@ -55,3 +55,8 @@ sentence: [When it's cold I wear my warm sweater.] What a lovely sweater.
 words: clothes, don't, haven't got, hasn't got, isn't, aren't, [fur], hat, cap, [earmuffs], [gloves - mittens], scarf, [socks - sock], [stockings - stocking], [tights], 
       winter clothes, [fur coat], [fur hat], 
 sentence: In winter I don't wear flip-flops. These earmuffs aren't warm. I like these earmuffs. Where is your fur hat? Her raincoat is there. You should wear tights in winter. [Why don't you wear stockings?] 
+
+26.07
+words: springe, shoes, [flat], [high-heeled], [heel], high, [trainers], pair, often, usually, sometimes, [rarely], always, never, 
+      springe clothes, [high-heeled shoes], [flat shoes - flats], a pair of trainers, three pairs of flip-flops, my pair of flat shoes, one pair of high-heeled shoes, [I often], [We usually], [when it rains], 
+sentence:  I usually wear jeans on Friday. [She rarely wears high-heeled shoes.] I never wear mittens in winter. In springe girls always wear deautiful dresses. You don't wear socks with sandals. 
