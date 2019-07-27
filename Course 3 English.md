@@ -60,3 +60,8 @@ sentence: In winter I don't wear flip-flops. These earmuffs aren't warm. I like 
 words: springe, shoes, [flat], [high-heeled], [heel], high, [trainers], pair, often, usually, sometimes, [rarely], always, never, 
       springe clothes, [high-heeled shoes], [flat shoes - flats], a pair of trainers, three pairs of flip-flops, my pair of flat shoes, one pair of high-heeled shoes, [I often], [We usually], [when it rains], 
 sentence:  I usually wear jeans on Friday. [She rarely wears high-heeled shoes.] I never wear mittens in winter. In springe girls always wear deautiful dresses. You don't wear socks with sandals. 
+
+27.07
+words: [BELONG - belong], [unity], improve, 
+      [by your side], 
+sentence: [Take me home.] Do you wear a fur coat in winter? Do they wear raincoats in summer? Do we wear shorts [at] work? Does she often wear trainers? Does he wear these shorts? Do you wear stockings? What does Olga wear in autumn? [What do you wear?] 
