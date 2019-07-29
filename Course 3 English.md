@@ -65,3 +65,9 @@ sentence:  I usually wear jeans on Friday. [She rarely wears high-heeled shoes.]
 words: [BELONG - belong], [unity], improve, 
       [by your side], 
 sentence: [Take me home.] Do you wear a fur coat in winter? Do they wear raincoats in summer? Do we wear shorts [at] work? Does she often wear trainers? Does he wear these shorts? Do you wear stockings? What does Olga wear in autumn? [What do you wear?] 
+
+29.07(38 lesson "!")
+words: dress-code, [festive], business, [casual], [jewellery, earrings, necklace, bracelet], suit, tie, knee, [rarely]
+       [indoor], [outdoor], activity, [out], read, [magazines], listen, [surf], [board], 
+      [dress suit, dress shoes], [bow-tie], pretty earrings, [knee-length skirt], free time, [indoor activity], [outdoor activity], listen [to] music, watch TV, watch a movie, [listen to the radio], [surf the net/internet], play darts, play chess, play [board] games, play the piano, [I like], 
+sentence: Jim doesn't wear bow-ties. [I am wearing a evening dress.] They are wearing dresses. OLga is wearing a short-sleeved dress now. Olga usually wears long dresses. What do you wear in spring? [I have got a lot of free time. Olga hasn't got much free time.] Have you got much free time? Indoor activity is activity at home. Outdoor activity is activity [not at home]. [I like surfing the net.] I don't like listening to the radio. 
