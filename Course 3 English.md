@@ -73,6 +73,6 @@ words: dress-code, [festive], business, [casual], [jewellery, earrings, necklace
 sentence: Jim doesn't wear bow-ties. [I am wearing a evening dress.] They are wearing dresses. OLga is wearing a short-sleeved dress now. Olga usually wears long dresses. What do you wear in spring? [I have got a lot of free time. Olga hasn't got much free time.] Have you got much free time? Indoor activity is activity at home. Outdoor activity is activity [not at home]. [I like surfing the net.] I don't like listening to the radio. 
 
 30.07
-words: [outdoor], activit[es], swim, dance, [ride], 
+words: [outdoor], activit[es], swim, [dance - dancing], [ride - riding], [skate - skating], [ski], 
       outdoor activites, go to the movies, [go for a walk], [go out with friends], travel around the world, [ride a bicycle, ride a bike], 
-sentence: We like indoor activites. [I often go out with my friends.] I often travel around the USA. Do you often travel? [She rarely travels.] He isn't travelling now. 
+sentence: We like indoor activites. [I often go out with my friends.] I often travel around the USA. Do you often travel? [She rarely travels.] He isn't travelling now. I don't like swimming. [I like travelling]. [He likes walking.] I like running. We like runnung in the morning. I like dancing. [I like riding a bike.] They don't like walking. 
