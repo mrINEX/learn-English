@@ -75,4 +75,10 @@ sentence: Jim doesn't wear bow-ties. [I am wearing a evening dress.] They are we
 30.07
 words: [outdoor], activit[es], swim, [dance - dancing], [ride - riding], [skate - skating], [ski], 
       outdoor activites, go to the movies, [go for a walk], [go out with friends], travel around the world, [ride a bicycle, ride a bike], 
-sentence: We like indoor activites. [I often go out with my friends.] I often travel around the USA. Do you often travel? [She rarely travels.] He isn't travelling now. I don't like swimming. [I like travelling]. [He likes walking.] I like running. We like runnung in the morning. I like dancing. [I like riding a bike.] They don't like walking. 
+sentence: We like indoor activites. [I often go out with my friends.] I often travel around the USA. Do you often travel? [She rarely travels.] He isn't travelling now. I don't like swimming. [I like travelling]. [He likes walking.] I like running. We like running in the morning. I like dancing. [I like riding a bike.] They don't like walking. 
+
+1.08
+words: like, [dislike], [enjoy], love, [be fond of - FOND OF], [favourite - favorite], hate, [prefer], WITHOUT
+      [wing], [tongue], [king - kin], [sing - sin], uncle, bank, [single], 
+      [like running], [enjoy running], 
+sentence: I like skiing. [I enjoy readind newspapers.] (I [am fond of] running.) I'[m fond of] riding a bicycle. He [is fond of] swimming.  I am fond of travelling. I enjoy travelling. I love travelling. My favourite sport is swimming. This is my favorite game. I hate computer games. [I hate walking when it rains.] (I don't like riding a bicycle I prefer surfing the net.) [I prefer walking.] I'm fond of music. I hate [bad] weather. 
