@@ -73,7 +73,7 @@ words: dress-code, [festive], business, [casual], [jewellery, earrings, necklace
 sentence: Jim doesn't wear bow-ties. [I am wearing a evening dress.] They are wearing dresses. OLga is wearing a short-sleeved dress now. Olga usually wears long dresses. What do you wear in spring? [I have got a lot of free time. Olga hasn't got much free time.] Have you got much free time? Indoor activity is activity at home. Outdoor activity is activity [not at home]. [I like surfing the net.] I don't like listening to the radio. 
 
 30.07
-words: [outdoor], activit[es], swim, [dance - dancing], [ride - riding], [skate - skating], [ski], 
+words: [outdoor], activit[es], swim, [dance - dancing], [ride - riding], [skate - skating], [ski - skiing]
       outdoor activites, go to the movies, [go for a walk], [go out with friends], travel around the world, [ride a bicycle, ride a bike], 
 sentence: We like indoor activites. [I often go out with my friends.] I often travel around the USA. Do you often travel? [She rarely travels.] He isn't travelling now. I don't like swimming. [I like travelling]. [He likes walking.] I like running. We like running in the morning. I like dancing. [I like riding a bike.] They don't like walking. 
 
@@ -81,4 +81,10 @@ sentence: We like indoor activites. [I often go out with my friends.] I often tr
 words: like, [dislike], [enjoy], love, [be fond of - FOND OF], [favourite - favorite], hate, [prefer], WITHOUT
       [wing], [tongue], [king - kin], [sing - sin], uncle, bank, [single], 
       [like running], [enjoy running], 
-sentence: I like skiing. [I enjoy readind newspapers.] (I [am fond of] running.) I'[m fond of] riding a bicycle. He [is fond of] swimming.  I am fond of travelling. I enjoy travelling. I love travelling. My favourite sport is swimming. This is my favorite game. I hate computer games. [I hate walking when it rains.] (I don't like riding a bicycle I prefer surfing the net.) [I prefer walking.] I'm fond of music. I hate [bad] weather. 
+sentence: I like skiing. I like skating. [I enjoy readind newspapers.] (I [am fond of] running.) I'[m fond of] riding a bicycle. He [is fond of] swimming.  I am fond of travelling. I enjoy travelling. I love travelling. My favourite sport is swimming. This is my favorite game. I hate computer games. [I hate walking when it rains.] (I don't like riding a bicycle I prefer surfing the net.) [I prefer walking.] I'm fond of music. I hate [bad] weather. 
+
+2.08
+words: [ride - RIDE], [week], [month], [Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday], afternoon, [once, twice, three times, four times]
+      [lifestyle], only, [prefer], [what's], [he's got == he has got], 
+      how often, every [day/week/month/year], once a month, three times, four times, my lifestyle, [what's]
+sentence: How often do you travel? Do you travel? [How often do you go for a walk.] How often do you walk together? I rarely travel. We surf the enternet every day. [What is the second day of the week? What is the first day of the week?] I go for a walk [three times a day]. How often do you ride a bike? How often do you skate? I rarely ski. [What does Magg do every morning?] [What does Olga ride?] 
