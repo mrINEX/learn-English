@@ -88,3 +88,7 @@ words: [ride - RIDE], [week], [month], [Monday, Tuesday, Wednesday, Thursday, Fr
       [lifestyle], only, [prefer], [what's], [he's got == he has got], 
       how often, every [day/week/month/year], once a month, three times, four times, my lifestyle, [what's]
 sentence: How often do you travel? Do you travel? [How often do you go for a walk.] How often do you walk together? I rarely travel. We surf the enternet every day. [What is the second day of the week? What is the first day of the week?] I go for a walk [three times a day]. How often do you ride a bike? How often do you skate? I rarely ski. [What does Magg do every morning?] [What does Olga ride?] [We don't have any free time.] 
+
+3.08
+words: [divorced - DIVORCED], [EX-  ex-], [mother mom-mum-mummy], [father dad-daddy], [parent]s, husband, wife, [married], [single - SINGLE], [Miss - Mrs == Mister - Mr], [ex-wife, ex-husband], brother, sister, [daughter, son], 
+sentence: She is married. We're married. Are you married? [He is single.] She is divorced. 
