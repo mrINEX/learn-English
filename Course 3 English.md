@@ -94,5 +94,5 @@ words: [divorced - DIVORCED], [EX-  ex-], [mother mom-mum-mummy], [father dad-da
 sentence: She is married. We're married. Are you married? [He is single.] She is divorced. 
 
 06.08
-words: [grand], grandmother, grandfather, granddaughter, grandson, grandchildren, [busy - BUSY], [grandparents], grand[ma], grand[pa], [granny], [great-], my, 
+words: [grand], grandmother, grandfather, granddaughter, grandson, grandchildren, [busy - BUSY], [wise - WISE], [grandparents], grand[ma], grand[pa], [granny], [great-], my, we - our, they - their, he - his, she - her, you - your, it - its, 
 sentence: 
