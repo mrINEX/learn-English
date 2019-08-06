@@ -92,3 +92,7 @@ sentence: How often do you travel? Do you travel? [How often do you go for a wal
 3.08
 words: [divorced - DIVORCED], [EX-  ex-], [mother mom-mum-mummy], [father dad-daddy], [parent]s, husband, wife, [married], [single - SINGLE], [Miss - Mrs == Mister - Mr], [ex-wife, ex-husband], brother, sister, [daughter, son], 
 sentence: She is married. We're married. Are you married? [He is single.] She is divorced. 
+
+06.08
+words: [grand], grandmother, grandfather, granddaughter, grandson, grandchildren, [busy - BUSY], [grandparents], grand[ma], grand[pa], [granny], [great-], my, 
+sentence: 
