@@ -95,4 +95,8 @@ sentence: She is married. We're married. Are you married? [He is single.] She is
 
 06.08
 words: [grand], grandmother, grandfather, granddaughter, grandson, grandchildren, [busy - BUSY], [wise - WISE], [grandparents], grand[ma], grand[pa], [granny], [great-], my, we - our, they - their, he - his, she - her, you - your, it - its, 
+
+07.08
+words: [relative]s, [aunt], [uncle], [cousin], [nephew, niece], 
+      mother's sister, 
 sentence: 
