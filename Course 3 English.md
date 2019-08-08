@@ -98,5 +98,9 @@ words: [grand], grandmother, grandfather, granddaughter, grandson, grandchildren
 
 07.08
 words: [relative]s, [aunt], [uncle], [cousin], [nephew, niece], 
-      mother's sister, 
-sentence: 
+      mother's sister
+
+08.08
+words: [decide - DECIDE], [this - these], young, [older - elder], thin - slim, slim - slimmer, [clever] - clever[er], happy - happ[ier], angry - agr[ier], [narrow - NARROW] - narr[ower], [tender - TENDER] - tend[erer], [attractive - ATTRACTIVE], ugly - uglier, [confident - CONFIDENT],  handsome, 
+      [on my own - ON MY OWN], elder brother, less emotional, less shy, more confident, 
+sentence: Olga is [younger than] Vova. Olga is [4 years younger than] Vova. [He is older than I.] You're 8 cm taller than Jack. She's 12 cm shorter than Julia. I'm 10 cm taller than you. He is 5 years older than you. [Is he happier than you?] She is tenderer. We're more sociable than our parents. I'm prettier than your friend. John is more unattractive than you. Are you more hot-tempered than your friend? He is less sociable than his sister. I'm less shy than my mother. Am I thinner than you? [He is less [handsome] than your husband.] We are prettier than you. 
