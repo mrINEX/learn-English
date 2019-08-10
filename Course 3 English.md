@@ -109,3 +109,9 @@ sentence: Olga is [younger than] Vova. Olga is [4 years younger than] Vova. [He 
 words: [board], [ice-hockey], prefer, exercises, [yoga], [gymnastics], cousin
       [fond of - FOND OF], do karate, [do boxing, do bodybuilding], 
 sentence: My brother loves playing [board] games. My father enjoys playing [ice-hockey]. I'[m fond of] playing darts. My mum hates doing exercises every morning. [My cousin likes doing karate.] My grandma [goes swimming]. I do boxing every week. I do bodybuilding every day. 
+
+10.08 (lesson 50)
+words: [lazy - LAZY], enjoy, prefer, hate
+      [brush], [rush - RUSH], [catch - CATCH], [character], [choir], frame, [rough - ROUGH], [laugh - LAUGH], enough, fluffy, [frighten - FRIGHTEN], [whole], 
+      [look like], [be like - am like, is like, are like], be fond of, 
+sentence: [What do they look like?] What does she look like? [(What are they like?) (What do they like?)] They are kind. [What does she like to do?] Does she often wear trainers? Does she enjoy swimming? 
