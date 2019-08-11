@@ -117,6 +117,6 @@ words: [lazy - LAZY], enjoy, prefer, hate
 sentence: [What do they look like?] What does she look like? [(What are they like?) (What do they like?)] They are kind. [What does she like to do?] Does she often wear trainers? Does she enjoy swimming? 
 
 11.08
-words: [a.m.], [p.m.], [half] - HALF, [past] - PAST, wake - WAKE, get - GET, [shower - SHOWER], [breakfast - lunch - dinner], 
-      at 5 a.m., at about 5 a.m., half past six(6:30), [wake up - get up(GET UP)], [wake-up call],  have a shower, [from Monday to Friday], have lunch, 
-sentence: I never get up at 7 a.m. We usually wake up at about 11 on [weekends]. I have a shower at 7 a.m. I don't usually have breakfast. 
+words: [a.m.], [p.m.], [half] - HALF, [past] - PAST, wake - WAKE, get - GET, [shower - SHOWER], [breakfast - lunch - dinner], [brush - BRUSH], 
+      at 5 a.m., at about 5 a.m., half past six(6:30), [wake up - get up(GET UP)], [wake-up call],  have a shower, [from Monday to Friday], have lunch, brush teeth, [brush hair], go to work, [get home - GET HOME], 
+sentence: I never get up at 7 a.m. We usually wake up at about 11 on [weekends]. I have a shower at 7 a.m. I don't usually have breakfast. [I brush my teeth.] They brush their hair. I have a shower and then brush my hair. [I always brush my hair before I go out.]  I go to work at 8:30. 
