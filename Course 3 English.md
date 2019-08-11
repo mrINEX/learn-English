@@ -115,3 +115,8 @@ words: [lazy - LAZY], enjoy, prefer, hate
       [brush], [rush - RUSH], [catch - CATCH], [character], [choir], frame, [rough - ROUGH], [laugh - LAUGH], enough, fluffy, [frighten - FRIGHTEN], [whole], 
       [look like], [be like - am like, is like, are like], be fond of, 
 sentence: [What do they look like?] What does she look like? [(What are they like?) (What do they like?)] They are kind. [What does she like to do?] Does she often wear trainers? Does she enjoy swimming? 
+
+11.08
+words: [a.m.], [p.m.], [half] - HALF, [past] - PAST, wake - WAKE, get - GET, [shower - SHOWER], [breakfast - lunch - dinner], 
+      at 5 a.m., at about 5 a.m., half past six(6:30), [wake up - get up(GET UP)], [wake-up call],  have a shower, [from Monday to Friday], have lunch, 
+sentence: I never get up at 7 a.m. We usually wake up at about 11 on [weekends]. I have a shower at 7 a.m. I don't usually have breakfast. 
