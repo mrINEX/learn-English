@@ -125,3 +125,8 @@ sentence: I never get up at 7 a.m. We usually wake up at about 11 on [weekends].
 words: [fry - FRY, fries], try, cry, wash, walk, [feed - FEED], brush - brushes, have - has, together, make, cook(cooks), rarely, clean, 
       do exercises, [make the bed], [cook breakfast, cook lunch, cook dinner], clean the room, [feed the cat], 
 sentence: [Every morning I make my bed.] Olga, clean your room!
+
+14.08
+words: [deep - DEEP], [past], to, quarter - QUARTER, [half], when, [forward - FORWARD], Friday[s], here, [weekend[s] - WEEKEND, WEEKDAY - weekday[s]], rarely, 
+      ten past ten, [what time], get home, [in the afternoon], [at about - AT ABOUT], have a shower, [at night - at midnight], [when he doesn't work], [on Wednesday evening], on Monday[s], on Thursday[s], [at weekends, at the weekend - on weekdays], how often, 
+sentence: It's quarter to twelve. [(What time) do you get up?] What time is it? What time do you go to work? [What time do you (get home)?] What time do you [wake up]? What time does Olga have lunch? [We want (to go out) in the evening.] I don't have free time on Monday. What about Wednesday? [Perhaps, you are free on Thursday afternoon.] How often do you go out with your friends at weekends?
