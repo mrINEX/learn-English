@@ -130,3 +130,9 @@ sentence: [Every morning I make my bed.] Olga, clean your room!
 words: [deep - DEEP], [past], to, quarter - QUARTER, [half], when, [forward - FORWARD], Friday[s], here, [weekend[s] - WEEKEND, WEEKDAY - weekday[s]], rarely, 
       ten past ten, [what time], get home, [in the afternoon], [at about - AT ABOUT], have a shower, [at night - at midnight], [when he doesn't work], [on Wednesday evening], on Monday[s], on Thursday[s], [at weekends, at the weekend - on weekdays], how often, 
 sentence: It's quarter to twelve. [(What time) do you get up?] What time is it? What time do you go to work? [What time do you (get home)?] What time do you [wake up]? What time does Olga have lunch? [We want (to go out) in the evening.] I don't have free time on Monday. What about Wednesday? [Perhaps, you are free on Thursday afternoon.] How often do you go out with your friends at weekends?
+
+15.08
+words: [sacrifice - SACRIFICE], [tradition], [picnic], [country], [vacation], prefer, [early - EARLY, (soon)], occasion - OCCASION, [special - SPECIAL], [celebrate - CELEBRATE]
+      favorite, [opportunity - OPPORTUNITY], at Easter, at Halloween, at Thanksgiving, at Christmas, decorate - DECORATE, 
+      family traditions, [stay in], [go out], have a picnic, [go to the country], go for a walk, [go (on) a family vacation], have family dinner, Christmas tree, 
+sentence: She enjoys reading at weekends. [He is fond of listening to music.] I love going to the country with my family. [What's the occasion?] Only on special occasion. [Let's celebrate it together.] Do you celebrate New Year with your family? [What do you usually celebrate?] 
