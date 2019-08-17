@@ -136,3 +136,9 @@ words: [sacrifice - SACRIFICE], [tradition], [picnic], [country], [vacation], pr
       favorite, [opportunity - OPPORTUNITY], at Easter, at Halloween, at Thanksgiving, at Christmas, decorate - DECORATE, 
       family traditions, [stay in], [go out], have a picnic, [go to the country], go for a walk, [go (on) a family vacation], have family dinner, Christmas tree, 
 sentence: She enjoys reading at weekends. [He is fond of listening to music.] I love going to the country with my family. [What's the occasion?] Only on special occasion. [Let's celebrate it together.] Do you celebrate New Year with your family? [What do you usually celebrate?] 
+
+17.08
+words: decorate, [celebrate], [opportunity], a pie, a pumpkin, wear, present, [eve - EVE]
+      [(thought - THOUGHT) , (though - THOUGH)], laugh - LAUGH, [theme - THEME], rhythm - RHYTHM, [sink - SINK], think, [thin - thick], mouth, [breath - BREATH, breathe - BREATHE], breeze - BREEZE, [bath - BATH, bathe - BATHE], ]base - BASE], then - THEN, [feather - fluff], [faith - FAITH], quarter, 
+      have family dinner, make a cake, cook dinner, [cook a roasted turkey], [cook a pumpkin pie], [have a party], wear beautiful clothes, [give to each other], give presents, get presents, give presents to each other, [on] Christmas [Eve], [on] New Year's [Eve], [on] Thanksgiving [day], [(on) Easter (day)], [[come get me - COME GET ME]], just let me in, have a shower, 
+sentence: Decorate a Christmas tree. [Do Russian people wear special clothes at Halloween?] At Christmas we give presents to each other. [Do you like getting presents?] I enjoy giving presents [more than] getting. Olga loves getting presents at Christmas. What do people usually do on Christmas Eve? What do people usually do on New Year's Eve? People usually watch TV. [I often get home late.] So I never go to bed early. I brush my teeth. Does she work on Sundays? 
