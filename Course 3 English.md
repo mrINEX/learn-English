@@ -139,6 +139,12 @@ sentence: She enjoys reading at weekends. [He is fond of listening to music.] I 
 
 17.08
 words: decorate, [celebrate], [opportunity], a pie, a pumpkin, wear, present, [eve - EVE]
-      [(thought - THOUGHT) , (though - THOUGH)], laugh - LAUGH, [theme - THEME], rhythm - RHYTHM, [sink - SINK], think, [thin - thick], mouth, [breath - BREATH, breathe - BREATHE], breeze - BREEZE, [bath - BATH, bathe - BATHE], ]base - BASE], then - THEN, [feather - fluff], [faith - FAITH], quarter, 
+      !!![(thought - THOUGHT) , (though - THOUGH)]!!!, laugh - LAUGH, [theme - THEME], rhythm - RHYTHM, [sink - SINK], think, [thin - thick], mouth, [breath - BREATH, breathe - BREATHE], breeze - BREEZE, [bath - BATH, bathe - BATHE], [base - BASE], then - THEN, [feather - fluff], [faith - FAITH], quarter, 
       have family dinner, make a cake, cook dinner, [cook a roasted turkey], [cook a pumpkin pie], [have a party], wear beautiful clothes, [give to each other], give presents, get presents, give presents to each other, [on] Christmas [Eve], [on] New Year's [Eve], [on] Thanksgiving [day], [(on) Easter (day)], [[come get me - COME GET ME]], just let me in, have a shower, 
 sentence: Decorate a Christmas tree. [Do Russian people wear special clothes at Halloween?] At Christmas we give presents to each other. [Do you like getting presents?] I enjoy giving presents [more than] getting. Olga loves getting presents at Christmas. What do people usually do on Christmas Eve? What do people usually do on New Year's Eve? People usually watch TV. [I often get home late.] So I never go to bed early. I brush my teeth. Does she work on Sundays? 
+
+19.08
+words: [buddy - BUDDY], [close - CLOSE], [childhood - CHILDHOOD]
+      theme - THEME, [think, sink], [faith - FAITH, belive], [myth - MYTH], [rest - REST, remain - REMAIN], breathe, fate - FATE, 
+      [a friend [of mine]], good friend, [close friend  - CLOSE FRIEND], childhood friend, school friend, old friend, new friend, [the best friend], [BFF - best friend forever], someone else, 
+sentence: Mike is a friend of mine. [She isn't a friend of mine.] Hi, buddy! How are you? [I dislike my old friend.] You are my BFF. You are the best friend. I have got a lot of good friends. He has got his BFF. 
