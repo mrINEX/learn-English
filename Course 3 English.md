@@ -148,3 +148,8 @@ words: [buddy - BUDDY], [close - CLOSE], [childhood - CHILDHOOD]
       theme - THEME, [think, sink], [faith - FAITH, belive], [myth - MYTH], [rest - REST, remain - REMAIN], breathe, fate - FATE, 
       [a friend [of mine]], good friend, [close friend  - CLOSE FRIEND], childhood friend, school friend, old friend, new friend, [the best friend], [BFF - best friend forever], someone else, 
 sentence: Mike is a friend of mine. [She isn't a friend of mine.] Hi, buddy! How are you? [I dislike my old friend.] You are my BFF. You are the best friend. I have got a lot of good friends. He has got his BFF. 
+
+22.08
+words: [reserved], [many - MANY], very, really, [fairly - FAIRLY,(fair)], [clever - CLEVER], [quite - QUITE], [rather - RATHER, pretty - PRETTY], a bit - a little bit, [confident - CONFIDENT], 
+      [a lot of - A LOT OF, lots of - LOTS OF], [(a) few - (A) FEW, few - FEW], [how many - HOW MANY], [fairly clever], quite different, quite rught, a bit reserved, 
+sentence: Have you got lots of friends? Have you got many friends? I have got lots of [buddies]. Yes, she is really shy. [Vova and Vitya are quite different.] Masha is quite reserved. 
