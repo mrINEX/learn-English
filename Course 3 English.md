@@ -153,3 +153,8 @@ sentence: Mike is a friend of mine. [She isn't a friend of mine.] Hi, buddy! How
 words: [reserved], [many - MANY], very, really, [fairly - FAIRLY,(fair)], [clever - CLEVER], [quite - QUITE], [rather - RATHER, pretty - PRETTY], a bit - a little bit, [confident - CONFIDENT], 
       [a lot of - A LOT OF, lots of - LOTS OF], [(a) few - (A) FEW, few - FEW], [how many - HOW MANY], [fairly clever], quite different, quite rught, a bit reserved, 
 sentence: Have you got lots of friends? Have you got many friends? I have got lots of [buddies]. Yes, she is really shy. [Vova and Vitya are quite different.] Masha is quite reserved. 
+
+23.08
+words: [matter - MATTER], however - HOWEVER, honest - HONEST, caring - CARING, helpful - HELPFUL,
+      be a good listener, 
+sentence: They are caring parents. My best friend is very honest. Olga is helpful. Friends from Germany are honest friends. 
