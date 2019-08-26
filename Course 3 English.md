@@ -158,3 +158,9 @@ sentence: Have you got lots of friends? Have you got many friends? I have got lo
 words: [matter - MATTER], however - HOWEVER, honest - HONEST, caring - CARING, helpful - HELPFUL,
       be a good listener, 
 sentence: They are caring parents. My best friend is very honest. Olga is helpful. Friends from Germany are honest friends. 
+
+26.08
+words: pets - PETS, fish, parrot, rabbit, [mouse - mice], hamster, [rat - RAT], [turtle], [snake], crocodile, [kitten, puppy, bunny], [cute - CUTE]
+      [bushy - BUSHY], [tail - TAIL], [moustache - whiskers], [feathers - FEATHERS], [scales - SCALES], 
+      [three [mice - MICE], [fur [coat], [hair coat]], paw(s) - PAW(S), wing(s) - WING, [smooth - SMOOTH, shiny - SHINY], straight, wavy, curly, [striped], 
+sentence: These are my pets. [I don't like cats, I prefer dogs.] Where are your dogs? He has got 2 rats and a hamster. Have you got a hamster?:) Has her hamster got whiskers? 
