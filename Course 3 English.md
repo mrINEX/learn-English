@@ -164,3 +164,9 @@ words: pets - PETS, fish, parrot, rabbit, [mouse - mice], hamster, [rat - RAT], 
       [bushy - BUSHY], [tail - TAIL], [moustache - whiskers], [feathers - FEATHERS], [scales - SCALES], 
       [three [mice - MICE], [fur [coat], [hair coat]], paw(s) - PAW(S), wing(s) - WING, [smooth - SMOOTH, shiny - SHINY], straight, wavy, curly, [striped], 
 sentence: These are my pets. [I don't like cats, I prefer dogs.] Where are your dogs? He has got 2 rats and a hamster. Have you got a hamster?:) Has her hamster got whiskers? 
+
+27.08
+words: [rent - RENT], [guess - GUESS], sure - SURE, [striped - STRIPED], because, why, [waste - WASTE], [that's why],
+      slender, adolts - ADOLTS, confident, mice, 
+      rent a friend, [I guess - I GUESS], I think, [I'm sure that - I AM SURE THAT], It's true that - IT IS TRUE THAT, [that's why],
+sentence: [I'm sure that pets are people's good friends. I am sure pets are people's good friends.] I'[m fond of] parrots because Theay are very beautiful. I guess he's very reserved. 
