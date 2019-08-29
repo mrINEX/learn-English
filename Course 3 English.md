@@ -170,3 +170,8 @@ words: [rent - RENT], [guess - GUESS], sure - SURE, [striped - STRIPED], because
       slender, adolts - ADOLTS, confident, mice, 
       rent a friend, [I guess - I GUESS], I think, [I'm sure that - I AM SURE THAT], It's true that - IT IS TRUE THAT, [that's why],
 sentence: [I'm sure that pets are people's good friends. I am sure pets are people's good friends.] I'[m fond of] parrots because Theay are very beautiful. I guess he's very reserved. 
+
+29.08
+words: [relaxes], singing, [quite - QUITE], enjoy, [song - tune], tune - TUNE, lyrics - LYRICS, [melody - MELODY], 
+      play music, listen to music, write music, 
+sentence: My hobby is writing music. [I think listening to music relaxes a lot.] His dancing is [quite] interesting. 
