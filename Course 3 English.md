@@ -172,6 +172,8 @@ words: [rent - RENT], [guess - GUESS], sure - SURE, [striped - STRIPED], because
 sentence: [I'm sure that pets are people's good friends. I am sure pets are people's good friends.] I'[m fond of] parrots because Theay are very beautiful. I guess he's very reserved. 
 
 29.08
-words: [relaxes], singing, [quite - QUITE], enjoy, [song - tune], tune - TUNE, lyrics - LYRICS, [melody - MELODY], 
-      play music, listen to music, write music, 
-sentence: My hobby is writing music. [I think listening to music relaxes a lot.] His dancing is [quite] interesting. 
+words: [relaxes], singing, [quite - QUITE], enjoy, [song - tune], tune - TUNE, lyrics - LYRICS, [melody - MELODY], [happiness], [touching - TOUCH], [period - PERIOD]
+      genre - GENRE, most - MOST, some - SOME, [folk - FOLK], [want - WANT], 
+      play music, listen to music, write music, play [a] musical instrument, [her own]
+      [musical genres - GENRES], most people, folk music, 
+sentence: My hobby is writing music. [I think listening to music relaxes a lot.] His dancing is [quite] interesting. [What's the most famous Christmas melody?] This melody is rather sad. I listen to a song. [A good song wakes me up.] Olga listens to music. Olga is fond of singing. We feel love. [A melody can be different.] A good song helps you feel better. My wife can play the piano. My buddy plays the drums. [What musical genres do you prefer?] Every person knows this melody. 
