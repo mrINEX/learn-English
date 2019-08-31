@@ -177,3 +177,8 @@ words: [relaxes], singing, [quite - QUITE], enjoy, [song - tune], tune - TUNE, l
       play music, listen to music, write music, play [a] musical instrument, [her own]
       [musical genres - GENRES], most people, folk music, 
 sentence: My hobby is writing music. [I think listening to music relaxes a lot.] His dancing is [quite] interesting. [What's the most famous Christmas melody?] This melody is rather sad. I listen to a song. [A good song wakes me up.] Olga listens to music. Olga is fond of singing. We feel love. [A melody can be different.] A good song helps you feel better. My wife can play the piano. My buddy plays the drums. [What musical genres do you prefer?] Every person knows this melody. 
+
+31.08
+words: [lively - LIVELY], [lovely - LOVELY], calm - CALM, [joyful - JOYFUL], sad, wonderful, [awesome - AWESOME], [awful - AWFUL], [horrible - HORRIBLE], mess - MESS, [such - SUCH | so - SO], 
+      calm music, joyful music, dance music, [awful music, horrible music], [some of the songs], 
+sentence: [Joyful music makes me happier.] I listen to calm music when I get home. That's why when I get home I usually listen to calm music. [Turn it off.] I don't like such sad music. 
