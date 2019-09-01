@@ -182,3 +182,8 @@ sentence: My hobby is writing music. [I think listening to music relaxes a lot.]
 words: [lively - LIVELY], [lovely - LOVELY], calm - CALM, [joyful - JOYFUL], sad, wonderful, [awesome - AWESOME], [awful - AWFUL], [horrible - HORRIBLE], mess - MESS, [such - SUCH | so - SO], 
       calm music, joyful music, dance music, [awful music, horrible music], [some of the songs], 
 sentence: [Joyful music makes me happier.] I listen to calm music when I get home. That's why when I get home I usually listen to calm music. [Turn it off.] I don't like such sad music. 
+
+01.09
+words: [awful], horrible, [awesome], [exciting - EXCITING], 
+      relaxing music, 
+sentence: I wake up with lively music. 
