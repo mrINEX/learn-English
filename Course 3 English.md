@@ -184,6 +184,9 @@ words: [lively - LIVELY], [lovely - LOVELY], calm - CALM, [joyful - JOYFUL], sad
 sentence: [Joyful music makes me happier.] I listen to calm music when I get home. That's why when I get home I usually listen to calm music. [Turn it off.] I don't like such sad music. 
 
 01.09
-words: [awful], horrible, [awesome], [exciting - EXCITING], 
-      relaxing music, 
-sentence: I wake up with lively music. 
+words: [awful], horrible, [awesome], [exciting, excite - EXCITE], than, then, [boring, bore - BORE], interesting, [depressing - depress], relax, prefer.
+      logic, [moreover - MOREOVER], [besides - BESIDES], spend - SPEND, 
+      [firstly, secondly, finally], 
+      relaxing music, exciting song.
+      [to begin with], [on the one hand - on the other hand], 
+sentence: I wake up with lively music. [I don't like pop music. Most of the songs are boring.] She is so excited by his song! I'm bored. [What's wrong with you? I'm so excited.] To begin with, we are not friends. To begin with, I'm not online. 
