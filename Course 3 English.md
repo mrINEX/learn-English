@@ -185,8 +185,13 @@ sentence: [Joyful music makes me happier.] I listen to calm music when I get hom
 
 01.09
 words: [awful], horrible, [awesome], [exciting, excite - EXCITE], than, then, [boring, bore - BORE], interesting, [depressing - depress], relax, prefer.
-      --- logic, [moreover - MOREOVER], [besides - BESIDES,(sides)], spend - SPEND ---
+      --- logic, [moreover - MOREOVER], [besides - BESIDES,(sides)], [spend - SPEND] ---
       [firstly, secondly, finally], 
       relaxing music, exciting song.
       --- [to begin with], [on the one hand - on the other hand], [to sum up], ---
 sentence: I wake up with lively music. [I don't like pop music. Most of the songs are boring.] She is so excited by his song! I'm bored. [What's wrong with you? I'm so excited.] To begin with, we are not friends. To begin with, I'm not online. 
+
+03.09
+words: [upset - UPSET], feel - FEEL, [few != a few], [happy - HAPPY], sad, tired, [joyful], calm, angry, when, 
+      very [upset], [if - IF], [break - BREAK], 
+sentence: When I fell good, I sing. Jazz music excites me. I enjoy relaxing music. Sam has got few friends. He feels depressed. I feel bored. She feels excited. [I feel a bit excited.] We often feel tired. I feel tired after work. I always feel tired in the monings. [I don't feel tired.] Do you feel tired? [Olga feels very upset.] I feel so upset. I feel so sad. [When we feel happy, We often listen to joyful music.] When I get home I have dinner. When I listen to music I relax. When I go to bed I read. [What do you do when you feel tired?] I break dishes when I feel angry. 
