@@ -195,3 +195,6 @@ sentence: I wake up with lively music. [I don't like pop music. Most of the song
 words: [upset - UPSET], feel - FEEL, [few != a few], [happy - HAPPY], sad, tired, [joyful], calm, angry, when, 
       very [upset], [if - IF], [break - BREAK], 
 sentence: When I fell good, I sing. Jazz music excites me. I enjoy relaxing music. Sam has got few friends. He feels depressed. I feel bored. She feels excited. [I feel a bit excited.] We often feel tired. I feel tired after work. I always feel tired in the monings. [I don't feel tired.] Do you feel tired? [Olga feels very upset.] I feel so upset. I feel so sad. [When we feel happy, We often listen to joyful music.] When I get home I have dinner. When I listen to music I relax. When I go to bed I read. [What do you do when you feel tired?] I break dishes when I feel angry. 
+
+04.09
+words: ensure - ENSURE, tight - TIGHT, famous, popular, [although - ALTHOUGH | though - THOUGH], [ (however - HOWEVER - but) ], [moreover - and, besides], also - ALSO
