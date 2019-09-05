@@ -198,3 +198,6 @@ sentence: When I fell good, I sing. Jazz music excites me. I enjoy relaxing musi
 
 04.09
 words: ensure - ENSURE, tight - TIGHT, famous, popular, [although - ALTHOUGH | though - THOUGH], [ (however - HOWEVER - but) ], [moreover - and, besides], also - ALSO
+
+05.09
+words: [no - not], mad - MAD, pin - PIN, frost - FROST, sofa - SOFA, label - LABEL, [fat - fate], noble, cable, [stable], sample, [battle - BATTLE], bet - BET
