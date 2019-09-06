@@ -201,3 +201,8 @@ words: ensure - ENSURE, tight - TIGHT, famous, popular, [although - ALTHOUGH | t
 
 05.09
 words: [no - not], mad - MAD, pin - PIN, frost - FROST, sofa - SOFA, label - LABEL, [fat - fate], noble, cable, [stable], sample, [battle - BATTLE], bet - BET
+
+06.09
+words: [share - SHARE], [post - POST], profile, user, prefer, [can - CAN, cannot - CAN'T], [add - ADD], virtual - VIRTUAL, [upload - UPLOAD, download - DOWNLOAD], link, buy - BUY, load - LOAD, [comment], [to chat - CHAT, chat room], [lively], lovely 
+      [make virtual friends], [add to friends], upload photos/files, [share a link], share photos, [post a comment], [get up, wake up], [turn on - TURN ON], 
+sentences: Most people have got a profile. [Have you got a profile?] I can dance. Olga [can write] music. They can play the guitar. [He can upload programs.] If you like a person, you can add him [to your friends]. We can download a lot of music. I can share a link with you. Jack can buy a tablet. We can upload your photos to the site. You can post a comment. I cannot sing. I can't add Olga to friends. You can't upload a program. She can chat in a chat room. You can share a link. [I can't add you to friends.] I can add you to friends. [Every girl wants to be a singer.] I'm so excited after the concert. 
