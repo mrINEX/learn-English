@@ -209,7 +209,14 @@ sentences: Most people have got a profile. [Have you got a profile?] I can dance
 
 07.09
 words: tablet, [desktop, laptop - lap], mobile, social, use, [say]
-       (which WHICH - what WHAT), (kind - KIND quality), [fiddle], [hang - HANG], jogging, [twice], receive,
+       (which WHICH - what WHAT), (kind - KIND quality), [a fiddle], [hang - HANG], jogging, [twice], receive,
       surf the internet, [social networks], be online, be offline, [bad for health], use social networks, mobile phone
       [as fit as a fiddle], [what - what films], (what kind of), 
 sentences: [[People say that] they don't live here.] I am as fit as a fiddle. How often do you go to the gym? [When do you go jogging?] (Which dog do you like?) (What dogs do you like?) [What kind of] music do you like? [Which pet do you like?] 
+
+08.09
+words: touch - TOUCH, screen - SCREEN, press - PRESS, button - BUTTON, key - KEY, mouse, click - CLICK, [password - PASSWORD], enter, program, (install - INSTALL), download - upload, spend - SPEND,
+      e-mail, [receive - RECEIVE], [send - SEND], (advantage - ADVANTAGE, disadvantage - DISADVANTAGE), 
+      touch screen, key board, [click on - CLICK (ON)], [turn on - turn off], ([log in, log on] - [log out]), [login - LOGIN], download [to] the computer, install a program [on] the computer, 
+      [for getting], (to communicate with), use for, 
+sentences: Press the key. Use your laptop. (Click on the book.) Turn off your mobile phones. [I want to log in.] Do you want to log out?  You should log in. Enter your password. She doesn't like working on the computer. Do you remember your password? A lot of people use laptops. Most people play computer games. Vova uses the laptop for surfing the net. They communicate with nobody. [We can e-mail to each other.] 
