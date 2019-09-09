@@ -220,3 +220,7 @@ words: touch - TOUCH, screen - SCREEN, press - PRESS, button - BUTTON, key - KEY
       touch screen, key board, [click on - CLICK (ON)], [turn on - turn off], ([log in, log on] - [log out]), [login - LOGIN], download [to] the computer, install a program [on] the computer, 
       [for getting], (to communicate with), use for, 
 sentences: Press the key. Use your laptop. (Click on the book.) Turn off your mobile phones. [I want to log in.] Do you want to log out?  You should log in. Enter your password. She doesn't like working on the computer. Do you remember your password? A lot of people use laptops. Most people play computer games. Vova uses the laptop for surfing the net. They communicate with nobody. [We can e-mail to each other.] 
+
+09.09
+words: [cope - COPE], [cop - COP],  [tape] - type, lake, [(rape - rope), RAPE - ROPE], bad, (dead, dad), [candle - CANDLE], [tap - TAP], [lack - LACK], rather - RATHER, cannot - can't, finally - FINALLY, [lack - LACK], 
+sentences: You can add Jack to friends. We can turn off our desktop computer. I am on the computer. I always download music to the computer. We never turn off the laptop. I can share a link with you. I am very reserved. 
